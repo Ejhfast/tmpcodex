@@ -1,0 +1,2441 @@
+
+File 0: 0 / 21
+Current % recommended: 0.0
+Function call to_s:lvasgn has appeared 0 times, and the most common alternative to_s: has appeared 28497 times.
+File 1: 1 / 150
+Function blank? has appeared 3062.0 times and fingerprint has appeared 31.0 times, and they've appeared 0 times together.
+File 4: 1 / 190
+
+File 5: 0 / 21
+
+File 6: 0 / 28
+
+File 7: 0 / 8
+
+File 8: 0 / 51
+Current % recommended: 0.0043
+Function insert has appeared 2243.0 times and String.new has appeared 287.0 times, and they've appeared 0 times together.
+File 9: 1 / 74
+
+File 10: 0 / 41
+
+File 12: 0 / 8
+
+File 13: 0 / 39
+
+File 14: 0 / 13
+
+File 15: 0 / 4
+We've seen message blocks returning the shutdown type 0 times, and we've seen message blocks 213.0 times and shutdown returned 66.0 times.
+Function call message:sym,hash has appeared 0 times, and the most common alternative message: has appeared 3483 times.
+We've seen message blocks returning the say type 0 times, and we've seen message blocks 213.0 times and say returned 156.0 times.
+Function call message:sym,sym has appeared 1 times, and the most common alternative message: has appeared 3483 times.
+File 17: 4 / 19
+We've seen message blocks returning the shutdown type 0 times, and we've seen message blocks 213.0 times and shutdown returned 66.0 times.
+Function call message:sym,hash has appeared 0 times, and the most common alternative message: has appeared 3483 times.
+We've seen message blocks returning the kwbegin type 0 times, and we've seen message blocks 213.0 times and kwbegin returned 2250.0 times.
+Function call message:sym,sym has appeared 1 times, and the most common alternative message: has appeared 3483 times.
+File 18: 4 / 17
+We've seen message blocks returning the say type 0 times, and we've seen message blocks 213.0 times and say returned 156.0 times.
+Function call message:sym,hash has appeared 0 times, and the most common alternative message: has appeared 3483 times.
+File 19: 2 / 38
+
+File 20: 0 / 77
+
+File 21: 0 / 15
+
+File 22: 0 / 28
+Function call setup:str,str,str,int,str has appeared 0 times, and the most common alternative setup:lvar has appeared 10 times.
+We've seen message blocks returning the shutdown type 0 times, and we've seen message blocks 213.0 times and shutdown returned 66.0 times.
+Function call message:sym,hash has appeared 0 times, and the most common alternative message: has appeared 3483 times.
+We've seen message blocks returning the say type 0 times, and we've seen message blocks 213.0 times and say returned 156.0 times.
+Function call message:sym,sym has appeared 1 times, and the most common alternative message: has appeared 3483 times.
+File 23: 5 / 21
+
+File 24: 0 / 36
+Current % recommended: 0.02
+
+File 25: 0 / 55
+Function setup has appeared 425.0 times and new has appeared 7897.0 times, and they've appeared 0 times together.
+The identifier @filters has appeared 1 times as hash and 18 times as array
+Function send has appeared 11209.0 times and stream has appeared 391.0 times, and they've appeared 0 times together.
+Function [] has appeared 219183.0 times and roster has appeared 29.0 times, and they've appeared 0 times together.
+Function process has appeared 961.0 times and roster has appeared 29.0 times, and they've appeared 0 times together.
+File 26: 5 / 345
+Function call request:lvar,nil,lvar has appeared 0 times, and the most common alternative request: has appeared 1531 times.
+Function jid has appeared 471.0 times and client has appeared 1124.0 times, and they've appeared 0 times together.
+File 27: 2 / 174
+Function setup has appeared 425.0 times and client has appeared 1124.0 times, and they've appeared 0 times together.
+Function register_filter has appeared 18.0 times and client has appeared 1124.0 times, and they've appeared 0 times together.
+Function status= has appeared 1259.0 times and client has appeared 1124.0 times, and they've appeared 0 times together.
+Function roster has appeared 29.0 times and client has appeared 1124.0 times, and they've appeared 0 times together.
+Function jid has appeared 471.0 times and client has appeared 1124.0 times, and they've appeared 0 times together.
+File 28: 5 / 314
+Function setup has appeared 425.0 times and client has appeared 1124.0 times, and they've appeared 0 times together.
+File 29: 1 / 95
+
+File 30: 0 / 125
+
+File 31: 0 / 20
+Function element_name has appeared 90.0 times and find_first has appeared 27.0 times, and they've appeared 0 times together.
+File 32: 1 / 44
+Current % recommended: 0.0155
+Function call remove_child:str has appeared 0 times, and the most common alternative remove_child:lvar has appeared 7 times.
+Function element_name has appeared 90.0 times and find_first has appeared 27.0 times, and they've appeared 0 times together.
+Function reply has appeared 975.0 times and original has appeared 20.0 times, and they've appeared 0 times together.
+File 33: 3 / 110
+Function element_name has appeared 90.0 times and find_first has appeared 27.0 times, and they've appeared 0 times together.
+Function call namespace=:hash has appeared 0 times, and the most common alternative namespace=:send has appeared 19 times.
+File 34: 2 / 84
+
+File 35: 0 / 69
+Function content has appeared 1238.0 times and data has appeared 2930.0 times, and they've appeared 0 times together.
+File 36: 1 / 68
+Function private? has appeared 54.0 times and IPAddr.new has appeared 143.0 times, and they've appeared 0 times together.
+We've seen callback blocks returning the write type 0 times, and we've seen callback blocks 70.0 times and write returned 1256.0 times.
+File 37: 2 / 114
+Function options has appeared 7723.0 times and field has appeared 454.0 times, and they've appeared 0 times together.
+Function fields= has appeared 25.0 times and x has appeared 1146.0 times, and they've appeared 0 times together.
+File 38: 2 / 107
+
+File 39: 0 / 141
+Function call push:lvar,false has appeared 0 times, and the most common alternative push:lvar has appeared 2276 times.
+File 40: 1 / 118
+Current % recommended: 0.0149
+Function <=> has appeared 1978.0 times and JID.new has appeared 315.0 times, and they've appeared 0 times together.
+File 41: 1 / 146
+
+File 42: 0 / 161
+Function call features=:array has appeared 0 times, and the most common alternative features=:lvar has appeared 6 times.
+Function call find:str,hash has appeared 0 times, and the most common alternative find: has appeared 2320 times.
+File 43: 2 / 205
+Function call find:str,hash has appeared 0 times, and the most common alternative find: has appeared 2320 times.
+File 44: 1 / 134
+
+File 45: 0 / 32
+Function remove has appeared 545.0 times and command has appeared 1815.0 times, and they've appeared 0 times together.
+Function find_first has appeared 27.0 times and command has appeared 1815.0 times, and they've appeared 0 times together.
+Function namespace has appeared 1531.0 times and command has appeared 1815.0 times, and they've appeared 0 times together.
+Function children has appeared 2264.0 times and actions has appeared 171.0 times, and they've appeared 0 times together.
+Function << has appeared 59349.0 times and actions has appeared 171.0 times, and they've appeared 0 times together.
+Function remove has appeared 545.0 times and actions has appeared 171.0 times, and they've appeared 0 times together.
+Function [] has appeared 219183.0 times and note has appeared 118.0 times, and they've appeared 0 times together.
+Function []= has appeared 66242.0 times and note has appeared 118.0 times, and they've appeared 0 times together.
+File 46: 8 / 339
+Function [] has appeared 219183.0 times and open has appeared 1924.0 times, and they've appeared 0 times together.
+Function [] has appeared 219183.0 times and close has appeared 4331.0 times, and they've appeared 0 times together.
+File 47: 2 / 86
+Function remove has appeared 545.0 times and ping has appeared 33.0 times, and they've appeared 0 times together.
+File 48: 1 / 50
+Current % recommended: 0.0144
+
+File 49: 0 / 53
+Function call find:str,hash has appeared 0 times, and the most common alternative find: has appeared 2320 times.
+File 50: 1 / 185
+Function find_first has appeared 27.0 times and query has appeared 1312.0 times, and they've appeared 0 times together.
+Function call find:str,hash has appeared 0 times, and the most common alternative find: has appeared 2320 times.
+File 51: 2 / 208
+
+File 52: 0 / 415
+
+File 53: 0 / 149
+
+File 54: 0 / 144
+
+File 55: 0 / 119
+Function remove has appeared 545.0 times and xpath has appeared 301.0 times, and they've appeared 0 times together.
+Function []= has appeared 66242.0 times and find_first has appeared 27.0 times, and they've appeared 0 times together.
+Function ! has appeared 23156.0 times and delay has appeared 120.0 times, and they've appeared 0 times together.
+File 56: 3 / 428
+Current % recommended: 0.0112
+
+File 57: 0 / 54
+Function remove has appeared 545.0 times and c has appeared 193.0 times, and they've appeared 0 times together.
+Function []= has appeared 66242.0 times and c has appeared 193.0 times, and they've appeared 0 times together.
+File 58: 2 / 100
+
+File 59: 0 / 35
+Function role has appeared 147.0 times and item has appeared 561.0 times, and they've appeared 0 times together.
+Function role= has appeared 20.0 times and item has appeared 561.0 times, and they've appeared 0 times together.
+Function jid has appeared 471.0 times and item has appeared 561.0 times, and they've appeared 0 times together.
+Function jid= has appeared 38.0 times and item has appeared 561.0 times, and they've appeared 0 times together.
+Function call find:str,hash has appeared 0 times, and the most common alternative find: has appeared 2320 times.
+File 60: 5 / 147
+
+File 61: 0 / 218
+
+File 62: 0 / 100
+
+File 63: 0 / 172
+Function find_first has appeared 27.0 times and pubsub has appeared 111.0 times, and they've appeared 0 times together.
+Function << has appeared 59349.0 times and pubsub has appeared 111.0 times, and they've appeared 0 times together.
+Function call find:str,hash has appeared 0 times, and the most common alternative find: has appeared 2320 times.
+File 64: 3 / 79
+Current % recommended: 0.0111
+Function [] has appeared 219183.0 times and create_node has appeared 50.0 times, and they've appeared 0 times together.
+Function []= has appeared 66242.0 times and create_node has appeared 50.0 times, and they've appeared 0 times together.
+Function find_first has appeared 27.0 times and pubsub has appeared 111.0 times, and they've appeared 0 times together.
+Function << has appeared 59349.0 times and pubsub has appeared 111.0 times, and they've appeared 0 times together.
+Function namespace has appeared 1531.0 times and pubsub has appeared 111.0 times, and they've appeared 0 times together.
+File 65: 5 / 65
+
+File 66: 0 / 18
+Function call find:str,hash has appeared 0 times, and the most common alternative find: has appeared 2320 times.
+File 67: 1 / 139
+Function call find:str,hash has appeared 0 times, and the most common alternative find: has appeared 2320 times.
+Function find_first has appeared 27.0 times and pubsub has appeared 111.0 times, and they've appeared 0 times together.
+Function << has appeared 59349.0 times and pubsub has appeared 111.0 times, and they've appeared 0 times together.
+Function namespace has appeared 1531.0 times and pubsub has appeared 111.0 times, and they've appeared 0 times together.
+File 68: 4 / 103
+Function << has appeared 59349.0 times and publish has appeared 209.0 times, and they've appeared 0 times together.
+Function [] has appeared 219183.0 times and publish has appeared 209.0 times, and they've appeared 0 times together.
+Function []= has appeared 66242.0 times and publish has appeared 209.0 times, and they've appeared 0 times together.
+Function find_first has appeared 27.0 times and pubsub has appeared 111.0 times, and they've appeared 0 times together.
+Function << has appeared 59349.0 times and pubsub has appeared 111.0 times, and they've appeared 0 times together.
+Function namespace has appeared 1531.0 times and pubsub has appeared 111.0 times, and they've appeared 0 times together.
+Function call find:str,hash has appeared 0 times, and the most common alternative find: has appeared 2320 times.
+Function find has appeared 3899.0 times and publish has appeared 209.0 times, and they've appeared 0 times together.
+File 69: 8 / 103
+Function [] has appeared 219183.0 times and retract has appeared 15.0 times, and they've appeared 0 times together.
+Function call retract: has appeared 0 times, and the most common alternative retract:send has appeared 7 times.
+Function []= has appeared 66242.0 times and retract has appeared 15.0 times, and they've appeared 0 times together.
+Function find_first has appeared 27.0 times and pubsub has appeared 111.0 times, and they've appeared 0 times together.
+Function << has appeared 59349.0 times and pubsub has appeared 111.0 times, and they've appeared 0 times together.
+Function namespace has appeared 1531.0 times and pubsub has appeared 111.0 times, and they've appeared 0 times together.
+Function << has appeared 59349.0 times and retract has appeared 15.0 times, and they've appeared 0 times together.
+Function call find:str,hash has appeared 0 times, and the most common alternative find: has appeared 2320 times.
+Function find has appeared 3899.0 times and retract has appeared 15.0 times, and they've appeared 0 times together.
+File 70: 9 / 92
+Function [] has appeared 219183.0 times and subscribe has appeared 181.0 times, and they've appeared 0 times together.
+Function []= has appeared 66242.0 times and subscribe has appeared 181.0 times, and they've appeared 0 times together.
+Function find_first has appeared 27.0 times and pubsub has appeared 111.0 times, and they've appeared 0 times together.
+Function << has appeared 59349.0 times and pubsub has appeared 111.0 times, and they've appeared 0 times together.
+Function namespace has appeared 1531.0 times and pubsub has appeared 111.0 times, and they've appeared 0 times together.
+File 71: 5 / 68
+Function find_first has appeared 27.0 times and pubsub has appeared 111.0 times, and they've appeared 0 times together.
+Function << has appeared 59349.0 times and pubsub has appeared 111.0 times, and they've appeared 0 times together.
+Function namespace has appeared 1531.0 times and pubsub has appeared 111.0 times, and they've appeared 0 times together.
+File 72: 3 / 135
+Current % recommended: 0.0148
+Function remove has appeared 545.0 times and subscriptions has appeared 19.0 times, and they've appeared 0 times together.
+Function find_first has appeared 27.0 times and pubsub has appeared 111.0 times, and they've appeared 0 times together.
+Function << has appeared 59349.0 times and pubsub has appeared 111.0 times, and they've appeared 0 times together.
+Function call find:str,hash has appeared 0 times, and the most common alternative find: has appeared 2320 times.
+The identifier sub has appeared 0 times as hash and 6 times as array
+File 73: 5 / 83
+Function [] has appeared 219183.0 times and unsubscribe has appeared 43.0 times, and they've appeared 0 times together.
+Function []= has appeared 66242.0 times and unsubscribe has appeared 43.0 times, and they've appeared 0 times together.
+Function find_first has appeared 27.0 times and pubsub has appeared 111.0 times, and they've appeared 0 times together.
+Function << has appeared 59349.0 times and pubsub has appeared 111.0 times, and they've appeared 0 times together.
+Function namespace has appeared 1531.0 times and pubsub has appeared 111.0 times, and they've appeared 0 times together.
+File 74: 5 / 84
+Function find_first has appeared 27.0 times and document has appeared 943.0 times, and they've appeared 0 times together.
+File 75: 1 / 119
+Function find_first has appeared 27.0 times and pubsub has appeared 111.0 times, and they've appeared 0 times together.
+Function << has appeared 59349.0 times and pubsub has appeared 111.0 times, and they've appeared 0 times together.
+Function namespace has appeared 1531.0 times and pubsub has appeared 111.0 times, and they've appeared 0 times together.
+File 76: 3 / 52
+Function find_first has appeared 27.0 times and pubsub has appeared 111.0 times, and they've appeared 0 times together.
+Function << has appeared 59349.0 times and pubsub has appeared 111.0 times, and they've appeared 0 times together.
+Function namespace has appeared 1531.0 times and pubsub has appeared 111.0 times, and they've appeared 0 times together.
+File 77: 3 / 52
+Function find_first has appeared 27.0 times and document has appeared 943.0 times, and they've appeared 0 times together.
+File 78: 1 / 51
+Function call find:str,hash has appeared 0 times, and the most common alternative find: has appeared 2320 times.
+We've seen each blocks returning the namespace= type 0 times, and we've seen each blocks 39550.0 times and namespace= returned 7.0 times.
+File 79: 2 / 416
+
+File 80: 0 / 167
+Current % recommended: 0.0154
+
+File 81: 0 / 27
+Function find_first has appeared 27.0 times and document has appeared 943.0 times, and they've appeared 0 times together.
+File 82: 1 / 37
+
+File 83: 0 / 38
+Function content has appeared 1238.0 times and find_first has appeared 27.0 times, and they've appeared 0 times together.
+File 84: 1 / 63
+Function downcase has appeared 4571.0 times and content has appeared 1238.0 times, and they've appeared 0 times together.
+File 85: 1 / 190
+Function call check_response: has appeared 0 times, and the most common alternative check_response:block has appeared 97 times.
+File 86: 1 / 45
+
+File 87: 0 / 29
+We've seen proc blocks returning the next! type 0 times, and we've seen proc blocks 7446.0 times and next! returned 6.0 times.
+File 88: 1 / 74
+Current % recommended: 0.0151
+Function root= has appeared 81.0 times and document has appeared 943.0 times, and they've appeared 0 times together.
+Function call namespace=:hash has appeared 0 times, and the most common alternative namespace=:send has appeared 19 times.
+File 89: 2 / 102
+Function === has appeared 1324.0 times and connect has appeared 762.0 times, and they've appeared 0 times together.
+We've seen EM.next_tick blocks returning the send_data type 0 times, and we've seen EM.next_tick blocks 35.0 times and send_data returned 84.0 times.
+File 90: 2 / 265
+
+File 91: 0 / 3
+
+File 92: 0 / 94
+
+File 93: 0 / 112
+Function stubs has appeared 87.0 times and stream has appeared 391.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and subject has appeared 602.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and jid has appeared 471.0 times, and they've appeared 0 times together.
+Function jid has appeared 471.0 times and subject has appeared 602.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and roster has appeared 29.0 times, and they've appeared 0 times together.
+Function roster has appeared 29.0 times and subject has appeared 602.0 times, and they've appeared 0 times together.
+Function status= has appeared 1259.0 times and subject has appeared 602.0 times, and they've appeared 0 times together.
+Function status has appeared 1424.0 times and subject has appeared 602.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and setup has appeared 425.0 times, and they've appeared 0 times together.
+Function setup has appeared 425.0 times and subject has appeared 602.0 times, and they've appeared 0 times together.
+Function should_not has appeared 1134.0 times and subject has appeared 602.0 times, and they've appeared 0 times together.
+Function run has appeared 2197.0 times and subject has appeared 602.0 times, and they've appeared 0 times together.
+We've seen it blocks returning the run type 0 times, and we've seen it blocks 19306.0 times and run returned 501.0 times.
+Function expects has appeared 80.0 times and stream has appeared 391.0 times, and they've appeared 0 times together.
+Function close has appeared 4331.0 times and subject has appeared 602.0 times, and they've appeared 0 times together.
+Function unbind has appeared 59.0 times and subject has appeared 602.0 times, and they've appeared 0 times together.
+Function call Iq.new: has appeared 0 times, and the most common alternative Iq.new:sym has appeared 40 times.
+Function receive_data has appeared 24.0 times and subject has appeared 602.0 times, and they've appeared 0 times together.
+We've seen with blocks returning the == type 0 times, and we've seen with blocks 13.0 times and == returned 14905.0 times.
+Function expects has appeared 80.0 times and subject has appeared 602.0 times, and they've appeared 0 times together.
+Function times has appeared 4451.0 times and expects has appeared 80.0 times, and they've appeared 0 times together.
+Function call mock:hash has appeared 0 times, and the most common alternative mock: has appeared 35 times.
+Function once has appeared 192.0 times and expects has appeared 80.0 times, and they've appeared 0 times together.
+We've seen it blocks returning the write type 0 times, and we've seen it blocks 19306.0 times and write returned 1256.0 times.
+Function write has appeared 4605.0 times and subject has appeared 602.0 times, and they've appeared 0 times together.
+We've seen it blocks returning the status= type 0 times, and we've seen it blocks 19306.0 times and status= returned 16.0 times.
+The identifier status has appeared 6 times as array and 68 times as int
+Function to_s has appeared 29241.0 times and Status.new has appeared 23.0 times, and they've appeared 0 times together.
+Function call returns:hash has appeared 0 times, and the most common alternative returns:array has appeared 11 times.
+Function stubs has appeared 87.0 times and subject has appeared 602.0 times, and they've appeared 0 times together.
+We've seen before blocks returning the setup type 0 times, and we've seen before blocks 1758.0 times and setup returned 24.0 times.
+We've seen before blocks returning the run type 0 times, and we've seen before blocks 1758.0 times and run returned 501.0 times.
+Function run has appeared 2197.0 times and setup has appeared 425.0 times, and they've appeared 0 times together.
+We've seen with blocks returning the should type 0 times, and we've seen with blocks 13.0 times and should returned 7563.0 times.
+We've seen with blocks returning the true type 0 times, and we've seen with blocks 13.0 times and true returned 400.0 times.
+Function with has appeared 476.0 times and stubs has appeared 87.0 times, and they've appeared 0 times together.
+We've seen register_filter blocks returning the NilClass type 0 times, and we've seen register_filter blocks 16.0 times and NilClass returned 1206.0 times.
+Function register_filter has appeared 18.0 times and subject has appeared 602.0 times, and they've appeared 0 times together.
+We've seen register_filter blocks returning the call type 0 times, and we've seen register_filter blocks 16.0 times and call returned 1178.0 times.
+We've seen register_filter blocks returning the lvasgn type 0 times, and we've seen register_filter blocks 16.0 times and lvasgn returned 2211.0 times.
+We've seen register_filter blocks returning the == type 0 times, and we've seen register_filter blocks 16.0 times and == returned 14905.0 times.
+We've seen register_filter blocks returning the throw type 0 times, and we've seen register_filter blocks 16.0 times and throw returned 134.0 times.
+Function expects has appeared 80.0 times and response has appeared 1193.0 times, and they've appeared 0 times together.
+Function call has appeared 7979.0 times and response has appeared 1193.0 times, and they've appeared 0 times together.
+Function % has appeared 6944.0 times and number has appeared 1264.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and node has appeared 1812.0 times, and they've appeared 0 times together.
+Function call features=:array has appeared 0 times, and the most common alternative features=:lvar has appeared 6 times.
+Function should has appeared 33694.0 times and features has appeared 29.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and ver has appeared 18.0 times, and they've appeared 0 times together.
+Function to_s has appeared 29241.0 times and Nokogiri.XML has appeared 122.0 times, and they've appeared 0 times together.
+Function to_xml has appeared 309.0 times and c has appeared 193.0 times, and they've appeared 0 times together.
+Function call Nokogiri.XML:str has appeared 0 times, and the most common alternative Nokogiri.XML:lvar has appeared 67 times.
+File 94: 52 / 654
+We've seen with blocks returning the == type 0 times, and we've seen with blocks 13.0 times and == returned 14905.0 times.
+Function should_not has appeared 1134.0 times and find has appeared 3899.0 times, and they've appeared 0 times together.
+Function call find:str,hash has appeared 0 times, and the most common alternative find: has appeared 2320 times.
+Function should has appeared 33694.0 times and to has appeared 426.0 times, and they've appeared 0 times together.
+Function call nodes:str has appeared 0 times, and the most common alternative nodes: has appeared 190 times.
+We've seen it blocks returning the node type 0 times, and we've seen it blocks 19306.0 times and node returned 63.0 times.
+We've seen it blocks returning the publish type 0 times, and we've seen it blocks 19306.0 times and publish returned 67.0 times.
+Function call publish:str,array has appeared 0 times, and the most common alternative publish:str,hash has appeared 68 times.
+Function call retract:str,array has appeared 0 times, and the most common alternative retract:send has appeared 7 times.
+Function call retract:str,str has appeared 0 times, and the most common alternative retract:send has appeared 7 times.
+We've seen it blocks returning the subscribe type 0 times, and we've seen it blocks 19306.0 times and subscribe returned 9.0 times.
+Function call find:dstr,hash has appeared 0 times, and the most common alternative find: has appeared 2320 times.
+Function call subscribe:str,str has appeared 0 times, and the most common alternative subscribe: has appeared 92 times.
+We've seen it blocks returning the unsubscribe type 0 times, and we've seen it blocks 19306.0 times and unsubscribe returned 6.0 times.
+Function call unsubscribe:str has appeared 0 times, and the most common alternative unsubscribe: has appeared 12 times.
+Function call unsubscribe:str,str has appeared 0 times, and the most common alternative unsubscribe: has appeared 12 times.
+Function call unsubscribe:str,str,str has appeared 0 times, and the most common alternative unsubscribe: has appeared 12 times.
+Function call purge:str has appeared 0 times, and the most common alternative purge: has appeared 13 times.
+We've seen it blocks returning the create type 0 times, and we've seen it blocks 19306.0 times and create returned 77.0 times.
+We've seen it blocks returning the delete type 0 times, and we've seen it blocks 19306.0 times and delete returned 748.0 times.
+We've seen with blocks returning the true type 0 times, and we've seen with blocks 13.0 times and true returned 400.0 times.
+Function with has appeared 476.0 times and stubs has appeared 87.0 times, and they've appeared 0 times together.
+We've seen node blocks returning the call type 0 times, and we've seen node blocks 152.0 times and call returned 1178.0 times.
+We've seen create blocks returning the call type 0 times, and we've seen create blocks 9.0 times and call returned 1178.0 times.
+We've seen delete blocks returning the call type 0 times, and we've seen delete blocks 81.0 times and call returned 1178.0 times.
+File 95: 25 / 492
+We've seen it blocks returning the setup type 0 times, and we've seen it blocks 19306.0 times and setup returned 24.0 times.
+We've seen it blocks returning the shutdown type 0 times, and we've seen it blocks 19306.0 times and shutdown returned 66.0 times.
+We've seen it blocks returning the before type 0 times, and we've seen it blocks 19306.0 times and before returned 10.0 times.
+We've seen it blocks returning the after type 0 times, and we've seen it blocks 19306.0 times and after returned 24.0 times.
+Function call with:array has appeared 0 times, and the most common alternative with:str has appeared 94 times.
+Function call Iq.new: has appeared 0 times, and the most common alternative Iq.new:sym has appeared 40 times.
+Function call to=:str has appeared 0 times, and the most common alternative to=:ivar has appeared 7 times.
+We've seen it blocks returning the say type 0 times, and we've seen it blocks 19306.0 times and say returned 156.0 times.
+The identifier node has appeared 1 times as str and 30 times as array
+Function should has appeared 33694.0 times and node has appeared 1812.0 times, and they've appeared 0 times together.
+Function call features=:array has appeared 0 times, and the most common alternative features=:lvar has appeared 6 times.
+We've seen with blocks returning the == type 0 times, and we've seen with blocks 13.0 times and == returned 14905.0 times.
+We've seen it blocks returning the __send__ type 0 times, and we've seen it blocks 19306.0 times and __send__ returned 295.0 times.
+Function should has appeared 33694.0 times and pubsub has appeared 111.0 times, and they've appeared 0 times together.
+Function host has appeared 1563.0 times and pubsub has appeared 111.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and presence has appeared 61.0 times, and they've appeared 0 times together.
+File 96: 16 / 283
+Current % recommended: 0.0212
+
+File 97: 0 / 33
+Function should has appeared 33694.0 times and element_name has appeared 90.0 times, and they've appeared 0 times together.
+Function element_name has appeared 90.0 times and first has appeared 10694.0 times, and they've appeared 0 times together.
+Function should_not has appeared 1134.0 times and xpath has appeared 301.0 times, and they've appeared 0 times together.
+File 98: 3 / 129
+Function call namespace=:hash has appeared 0 times, and the most common alternative namespace=:send has appeared 19 times.
+Function call find:str,str has appeared 1 times, and the most common alternative find: has appeared 2320 times.
+Function should has appeared 33694.0 times and element_name has appeared 90.0 times, and they've appeared 0 times together.
+Function element_name has appeared 90.0 times and first has appeared 10694.0 times, and they've appeared 0 times together.
+Function should_not has appeared 1134.0 times and xpath has appeared 301.0 times, and they've appeared 0 times together.
+File 99: 5 / 108
+Function should has appeared 33694.0 times and element_name has appeared 90.0 times, and they've appeared 0 times together.
+Function element_name has appeared 90.0 times and node has appeared 1812.0 times, and they've appeared 0 times together.
+File 100: 2 / 33
+We've seen it blocks returning the accept type 0 times, and we've seen it blocks 19306.0 times and accept returned 206.0 times.
+We've seen with blocks returning the true type 0 times, and we've seen with blocks 13.0 times and true returned 400.0 times.
+Function with has appeared 476.0 times and stubs has appeared 87.0 times, and they've appeared 0 times together.
+Function [] has appeared 219183.0 times and find_first has appeared 27.0 times, and they've appeared 0 times together.
+Function should_not has appeared 1134.0 times and find_first has appeared 27.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and content has appeared 1238.0 times, and they've appeared 0 times together.
+Function content has appeared 1238.0 times and find_first has appeared 27.0 times, and they've appeared 0 times together.
+Function call decline: has appeared 0 times, and the most common alternative decline:lvar has appeared 6 times.
+File 101: 8 / 135
+Function object_id has appeared 1207.0 times and JID.new has appeared 315.0 times, and they've appeared 0 times together.
+Function call JID.new:str,str,str has appeared 0 times, and the most common alternative JID.new:lvar has appeared 104 times.
+Function should has appeared 33694.0 times and node has appeared 1812.0 times, and they've appeared 0 times together.
+Function call JID.new:str,str has appeared 0 times, and the most common alternative JID.new:lvar has appeared 104 times.
+Function call JID.new: has appeared 0 times, and the most common alternative JID.new:lvar has appeared 104 times.
+Function <=> has appeared 1978.0 times and JID.new has appeared 315.0 times, and they've appeared 0 times together.
+Function == has appeared 88060.0 times and JID.new has appeared 315.0 times, and they've appeared 0 times together.
+Function eql? has appeared 407.0 times and JID.new has appeared 315.0 times, and they've appeared 0 times together.
+File 102: 8 / 87
+Function should has appeared 33694.0 times and jid has appeared 471.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and RosterItem.new has appeared 15.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and subscription has appeared 46.0 times, and they've appeared 0 times together.
+Function subscription has appeared 46.0 times and RosterItem.new has appeared 15.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and ask has appeared 176.0 times, and they've appeared 0 times together.
+Function jid has appeared 471.0 times and first has appeared 10694.0 times, and they've appeared 0 times together.
+Function call status:str has appeared 0 times, and the most common alternative status: has appeared 1332 times.
+We've seen times blocks returning the status= type 0 times, and we've seen times blocks 4133.0 times and status= returned 16.0 times.
+Function should has appeared 33694.0 times and groups has appeared 173.0 times, and they've appeared 0 times together.
+File 103: 9 / 134
+We've seen proc blocks returning the process type 0 times, and we've seen proc blocks 7446.0 times and process returned 76.0 times.
+Function by has appeared 12.0 times and change has appeared 223.0 times, and they've appeared 0 times together.
+We've seen it blocks returning the push type 0 times, and we've seen it blocks 19306.0 times and push returned 895.0 times.
+Function call mock:hash has appeared 0 times, and the most common alternative mock: has appeared 35 times.
+We've seen it blocks returning the delete type 0 times, and we've seen it blocks 19306.0 times and delete returned 748.0 times.
+Function should has appeared 33694.0 times and jid has appeared 471.0 times, and they've appeared 0 times together.
+We've seen map blocks returning the should type 0 times, and we've seen map blocks 11571.0 times and should returned 7563.0 times.
+File 104: 7 / 107
+Current % recommended: 0.0234
+Function should has appeared 33694.0 times and node has appeared 1812.0 times, and they've appeared 0 times together.
+Function call to=:str has appeared 0 times, and the most common alternative to=:ivar has appeared 7 times.
+Function should_not has appeared 1134.0 times and find has appeared 3899.0 times, and they've appeared 0 times together.
+Function call find:dstr,hash has appeared 0 times, and the most common alternative find: has appeared 2320 times.
+Function call features=:array has appeared 0 times, and the most common alternative features=:lvar has appeared 6 times.
+The identifier control has appeared 0 times as array and 6 times as str
+Function should has appeared 33694.0 times and category has appeared 184.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and var has appeared 161.0 times, and they've appeared 0 times together.
+File 105: 8 / 247
+Function call to=:str has appeared 0 times, and the most common alternative to=:ivar has appeared 7 times.
+Function should_not has appeared 1134.0 times and find has appeared 3899.0 times, and they've appeared 0 times together.
+Function call find:dstr,hash has appeared 0 times, and the most common alternative find: has appeared 2320 times.
+Function should has appeared 33694.0 times and node has appeared 1812.0 times, and they've appeared 0 times together.
+The identifier control has appeared 0 times as array and 6 times as str
+Function should has appeared 33694.0 times and jid has appeared 471.0 times, and they've appeared 0 times together.
+Function call jid=:str has appeared 0 times, and the most common alternative jid=:send has appeared 10 times.
+File 106: 7 / 154
+Function should_not has appeared 1134.0 times and xpath has appeared 301.0 times, and they've appeared 0 times together.
+Function should_not has appeared 1134.0 times and command has appeared 1815.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and Command.new has appeared 43.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and action has appeared 312.0 times, and they've appeared 0 times together.
+Function type has appeared 3625.0 times and reply has appeared 975.0 times, and they've appeared 0 times together.
+Function action has appeared 312.0 times and reply has appeared 975.0 times, and they've appeared 0 times together.
+Function call to=:str has appeared 0 times, and the most common alternative to=:ivar has appeared 7 times.
+Function should_not has appeared 1134.0 times and find has appeared 3899.0 times, and they've appeared 0 times together.
+Function call find:dstr,hash has appeared 0 times, and the most common alternative find: has appeared 2320 times.
+Function call SHA1.hexdigest:str has appeared 0 times, and the most common alternative SHA1.hexdigest:send has appeared 69 times.
+Function should has appeared 33694.0 times and form has appeared 89.0 times, and they've appeared 0 times together.
+Function type= has appeared 399.0 times and form has appeared 89.0 times, and they've appeared 0 times together.
+Function type has appeared 3625.0 times and form has appeared 89.0 times, and they've appeared 0 times together.
+Function xpath has appeared 301.0 times and command has appeared 1815.0 times, and they've appeared 0 times together.
+File 107: 14 / 206
+
+File 108: 0 / 124
+Function should_not has appeared 1134.0 times and xpath has appeared 301.0 times, and they've appeared 0 times together.
+Function remove has appeared 545.0 times and ping has appeared 33.0 times, and they've appeared 0 times together.
+Function should_not has appeared 1134.0 times and ping has appeared 33.0 times, and they've appeared 0 times together.
+File 109: 3 / 45
+Function should_not has appeared 1134.0 times and xpath has appeared 301.0 times, and they've appeared 0 times together.
+Function should_not has appeared 1134.0 times and query has appeared 1312.0 times, and they've appeared 0 times together.
+Function type has appeared 3625.0 times and reply has appeared 975.0 times, and they've appeared 0 times together.
+File 110: 3 / 64
+Function should has appeared 33694.0 times and jid has appeared 471.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and subscription has appeared 46.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and ask has appeared 176.0 times, and they've appeared 0 times together.
+Function jid has appeared 471.0 times and first has appeared 10694.0 times, and they've appeared 0 times together.
+Function groups has appeared 173.0 times and first has appeared 10694.0 times, and they've appeared 0 times together.
+Function call jid=:str has appeared 0 times, and the most common alternative jid=:send has appeared 10 times.
+File 111: 6 / 139
+
+File 112: 0 / 57
+Current % recommended: 0.0247
+Function should_not has appeared 1134.0 times and xpath has appeared 301.0 times, and they've appeared 0 times together.
+Function call id=:str has appeared 0 times, and the most common alternative id=:send has appeared 127 times.
+Function should has appeared 33694.0 times and mime_type has appeared 80.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and profile has appeared 87.0 times, and they've appeared 0 times together.
+Function call File.new:str,int has appeared 0 times, and the most common alternative File.new:ivar,str has appeared 12 times.
+Function should has appeared 33694.0 times and desc has appeared 1269.0 times, and they've appeared 0 times together.
+File 113: 6 / 98
+Function should_not has appeared 1134.0 times and xpath has appeared 301.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and content has appeared 1238.0 times, and they've appeared 0 times together.
+Function content has appeared 1238.0 times and find_first has appeared 27.0 times, and they've appeared 0 times together.
+Function children has appeared 2264.0 times and find_first has appeared 27.0 times, and they've appeared 0 times together.
+File 114: 4 / 93
+Function type has appeared 3625.0 times and Iq.new has appeared 104.0 times, and they've appeared 0 times together.
+Function call Iq.new: has appeared 0 times, and the most common alternative Iq.new:sym has appeared 40 times.
+Function id has appeared 7490.0 times and Iq.new has appeared 104.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and Iq.new has appeared 104.0 times, and they've appeared 0 times together.
+Function call reply:hash has appeared 0 times, and the most common alternative reply:send has appeared 503 times.
+File 115: 5 / 61
+Function should_not has appeared 1134.0 times and xpath has appeared 301.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and to has appeared 426.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and reason has appeared 65.0 times, and they've appeared 0 times together.
+Function call to=:str has appeared 0 times, and the most common alternative to=:ivar has appeared 7 times.
+Function call reason=:str has appeared 0 times, and the most common alternative reason=:lvar has appeared 15 times.
+Function call decline: has appeared 0 times, and the most common alternative decline:lvar has appeared 6 times.
+File 116: 6 / 152
+Function should_not has appeared 1134.0 times and body has appeared 4505.0 times, and they've appeared 0 times together.
+Function should_not has appeared 1134.0 times and find has appeared 3899.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and subject has appeared 602.0 times, and they've appeared 0 times together.
+Function should_not has appeared 1134.0 times and subject has appeared 602.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and thread has appeared 111.0 times, and they've appeared 0 times together.
+Function call thread=:int has appeared 0 times, and the most common alternative thread=:lvar has appeared 5 times.
+Function should_not has appeared 1134.0 times and thread has appeared 111.0 times, and they've appeared 0 times together.
+Function call thread=:hash has appeared 0 times, and the most common alternative thread=:lvar has appeared 5 times.
+Function should has appeared 33694.0 times and Message.new has appeared 260.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and find_first has appeared 27.0 times, and they've appeared 0 times together.
+Function should_not has appeared 1134.0 times and find_first has appeared 27.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and to_xml has appeared 309.0 times, and they've appeared 0 times together.
+Function call Nokogiri.XML:str has appeared 0 times, and the most common alternative Nokogiri.XML:lvar has appeared 67 times.
+Function should_not has appeared 1134.0 times and xpath has appeared 301.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and form has appeared 89.0 times, and they've appeared 0 times together.
+Function type= has appeared 399.0 times and form has appeared 89.0 times, and they've appeared 0 times together.
+Function type has appeared 3625.0 times and form has appeared 89.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and delay has appeared 120.0 times, and they've appeared 0 times together.
+Function from has appeared 620.0 times and delay has appeared 120.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and stamp has appeared 77.0 times, and they've appeared 0 times together.
+Function stamp has appeared 77.0 times and delay has appeared 120.0 times, and they've appeared 0 times together.
+Function description has appeared 708.0 times and delay has appeared 120.0 times, and they've appeared 0 times together.
+File 117: 22 / 283
+Function should has appeared 33694.0 times and node has appeared 1812.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and ver has appeared 18.0 times, and they've appeared 0 times together.
+File 118: 2 / 56
+Function count has appeared 1658.0 times and xpath has appeared 301.0 times, and they've appeared 0 times together.
+Function should_not has appeared 1134.0 times and xpath has appeared 301.0 times, and they've appeared 0 times together.
+File 119: 2 / 37
+Function should has appeared 33694.0 times and jid has appeared 471.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and role has appeared 147.0 times, and they've appeared 0 times together.
+Function should_not has appeared 1134.0 times and xpath has appeared 301.0 times, and they've appeared 0 times together.
+Function call jid=:str has appeared 0 times, and the most common alternative jid=:send has appeared 10 times.
+File 120: 4 / 83
+Current % recommended: 0.0269
+Function should has appeared 33694.0 times and priority has appeared 133.0 times, and they've appeared 0 times together.
+We've seen lambda blocks returning the type= type 0 times, and we've seen lambda blocks 7889.0 times and type= returned 14.0 times.
+Function state has appeared 1217.0 times and Status.new has appeared 23.0 times, and they've appeared 0 times together.
+Function priority= has appeared 19.0 times and Status.new has appeared 23.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and Status.new has appeared 23.0 times, and they've appeared 0 times together.
+File 121: 5 / 144
+Function call Nokogiri.XML:str has appeared 0 times, and the most common alternative Nokogiri.XML:lvar has appeared 67 times.
+Function should has appeared 33694.0 times and to has appeared 426.0 times, and they've appeared 0 times together.
+File 122: 2 / 102
+We've seen lambda blocks returning the type= type 0 times, and we've seen lambda blocks 7889.0 times and type= returned 14.0 times.
+Function should has appeared 33694.0 times and Presence.new has appeared 100.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and node has appeared 1812.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and role has appeared 147.0 times, and they've appeared 0 times together.
+File 123: 4 / 125
+Function should_not has appeared 1134.0 times and find_first has appeared 27.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and find_first has appeared 27.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and to has appeared 426.0 times, and they've appeared 0 times together.
+File 124: 3 / 57
+Function should_not has appeared 1134.0 times and find has appeared 3899.0 times, and they've appeared 0 times together.
+Function call find:str,hash has appeared 0 times, and the most common alternative find: has appeared 2320 times.
+Function should_not has appeared 1134.0 times and create_node has appeared 50.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and to has appeared 426.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and node has appeared 1812.0 times, and they've appeared 0 times together.
+File 125: 5 / 56
+Function should_not has appeared 1134.0 times and find has appeared 3899.0 times, and they've appeared 0 times together.
+Function call find:str,hash has appeared 0 times, and the most common alternative find: has appeared 2320 times.
+Function should has appeared 33694.0 times and node has appeared 1812.0 times, and they've appeared 0 times together.
+Function [] has appeared 219183.0 times and subscription has appeared 46.0 times, and they've appeared 0 times together.
+File 126: 4 / 98
+Function should_not has appeared 1134.0 times and find has appeared 3899.0 times, and they've appeared 0 times together.
+Function call find:str,hash has appeared 0 times, and the most common alternative find: has appeared 2320 times.
+The identifier node has appeared 1 times as str and 30 times as array
+Function size has appeared 17730.0 times and find has appeared 3899.0 times, and they've appeared 0 times together.
+Function call find:dstr,hash has appeared 0 times, and the most common alternative find: has appeared 2320 times.
+Function should has appeared 33694.0 times and to has appeared 426.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and node has appeared 1812.0 times, and they've appeared 0 times together.
+File 127: 7 / 79
+Function should_not has appeared 1134.0 times and find has appeared 3899.0 times, and they've appeared 0 times together.
+Function call find:str,hash has appeared 0 times, and the most common alternative find: has appeared 2320 times.
+Function should_not has appeared 1134.0 times and publish has appeared 209.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and to has appeared 426.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and node has appeared 1812.0 times, and they've appeared 0 times together.
+Function should_not has appeared 1134.0 times and xpath has appeared 301.0 times, and they've appeared 0 times together.
+File 128: 6 / 83
+Current % recommended: 0.028
+Function should_not has appeared 1134.0 times and find has appeared 3899.0 times, and they've appeared 0 times together.
+Function call find:str,hash has appeared 0 times, and the most common alternative find: has appeared 2320 times.
+Function should_not has appeared 1134.0 times and retract has appeared 15.0 times, and they've appeared 0 times together.
+Function call retract: has appeared 0 times, and the most common alternative retract:send has appeared 7 times.
+Function should has appeared 33694.0 times and to has appeared 426.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and node has appeared 1812.0 times, and they've appeared 0 times together.
+Function should_not has appeared 1134.0 times and xpath has appeared 301.0 times, and they've appeared 0 times together.
+File 129: 7 / 75
+Function should_not has appeared 1134.0 times and find has appeared 3899.0 times, and they've appeared 0 times together.
+Function call find:str,hash has appeared 0 times, and the most common alternative find: has appeared 2320 times.
+Function should_not has appeared 1134.0 times and subscribe has appeared 181.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and to has appeared 426.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and node has appeared 1812.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and jid has appeared 471.0 times, and they've appeared 0 times together.
+File 130: 6 / 61
+Function should_not has appeared 1134.0 times and find has appeared 3899.0 times, and they've appeared 0 times together.
+Function call find:str,hash has appeared 0 times, and the most common alternative find: has appeared 2320 times.
+Function should has appeared 33694.0 times and to has appeared 426.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and node has appeared 1812.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and jid has appeared 471.0 times, and they've appeared 0 times together.
+Function call subid=:str has appeared 0 times, and the most common alternative subid=:lvar has appeared 5 times.
+Function should has appeared 33694.0 times and subscription has appeared 46.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and Subscription.new has appeared 14.0 times, and they've appeared 0 times together.
+File 131: 8 / 97
+Function should_not has appeared 1134.0 times and find has appeared 3899.0 times, and they've appeared 0 times together.
+Function call find:str,hash has appeared 0 times, and the most common alternative find: has appeared 2320 times.
+Function should_not has appeared 1134.0 times and subscriptions has appeared 19.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and to has appeared 426.0 times, and they've appeared 0 times together.
+File 132: 4 / 59
+Function should_not has appeared 1134.0 times and find has appeared 3899.0 times, and they've appeared 0 times together.
+Function call find:str,hash has appeared 0 times, and the most common alternative find: has appeared 2320 times.
+Function should_not has appeared 1134.0 times and unsubscribe has appeared 43.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and to has appeared 426.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and node has appeared 1812.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and jid has appeared 471.0 times, and they've appeared 0 times together.
+Function call subid=:str has appeared 0 times, and the most common alternative subid=:lvar has appeared 5 times.
+File 133: 7 / 74
+Function should_not has appeared 1134.0 times and find has appeared 3899.0 times, and they've appeared 0 times together.
+Function call find:str,hash has appeared 0 times, and the most common alternative find: has appeared 2320 times.
+Function should has appeared 33694.0 times and to has appeared 426.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and node has appeared 1812.0 times, and they've appeared 0 times together.
+File 134: 4 / 50
+Function should_not has appeared 1134.0 times and find has appeared 3899.0 times, and they've appeared 0 times together.
+Function call find:str,hash has appeared 0 times, and the most common alternative find: has appeared 2320 times.
+Function should has appeared 33694.0 times and to has appeared 426.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and node has appeared 1812.0 times, and they've appeared 0 times together.
+File 135: 4 / 50
+Function should_not has appeared 1134.0 times and find_first has appeared 27.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and find_first has appeared 27.0 times, and they've appeared 0 times together.
+Function should_not has appeared 1134.0 times and pubsub has appeared 111.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and to has appeared 426.0 times, and they've appeared 0 times together.
+File 136: 4 / 27
+Current % recommended: 0.0301
+Function should_not has appeared 1134.0 times and find_first has appeared 27.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and find_first has appeared 27.0 times, and they've appeared 0 times together.
+Function should_not has appeared 1134.0 times and pubsub has appeared 111.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and to has appeared 426.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and payload has appeared 167.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and content has appeared 1238.0 times, and they've appeared 0 times together.
+File 137: 6 / 68
+Function should_not has appeared 1134.0 times and find has appeared 3899.0 times, and they've appeared 0 times together.
+Function call find:str,hash has appeared 0 times, and the most common alternative find: has appeared 2320 times.
+The identifier control has appeared 0 times as array and 6 times as str
+Function should has appeared 33694.0 times and href has appeared 380.0 times, and they've appeared 0 times together.
+Function namespace has appeared 1531.0 times and subject has appeared 602.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and var has appeared 161.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and label has appeared 527.0 times, and they've appeared 0 times together.
+Function call var=:str has appeared 0 times, and the most common alternative var=:lvar has appeared 6 times.
+Function should has appeared 33694.0 times and desc has appeared 1269.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and required? has appeared 29.0 times, and they've appeared 0 times together.
+Function call Option.new:str,str has appeared 0 times, and the most common alternative Option.new:sym,nil has appeared 10 times.
+File 138: 11 / 233
+Function should has appeared 33694.0 times and element_name has appeared 90.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and to has appeared 426.0 times, and they've appeared 0 times together.
+Function call reply:hash has appeared 0 times, and the most common alternative reply:send has appeared 503 times.
+Function call id=:str has appeared 0 times, and the most common alternative id=:send has appeared 127 times.
+Function should_not has appeared 1134.0 times and to has appeared 426.0 times, and they've appeared 0 times together.
+Function should_not has appeared 1134.0 times and from has appeared 620.0 times, and they've appeared 0 times together.
+Function should_not has appeared 1134.0 times and type has appeared 3625.0 times, and they've appeared 0 times together.
+File 139: 7 / 134
+We've seen let blocks returning the - type 0 times, and we've seen let blocks 11.0 times and - returned 255.0 times.
+Function stubs has appeared 87.0 times and client has appeared 1124.0 times, and they've appeared 0 times together.
+Function with has appeared 476.0 times and send has appeared 11209.0 times, and they've appeared 0 times together.
+Function send has appeared 11209.0 times and expects has appeared 80.0 times, and they've appeared 0 times together.
+We've seen with blocks returning the == type 0 times, and we've seen with blocks 13.0 times and == returned 14905.0 times.
+Function call mock:hash has appeared 0 times, and the most common alternative mock: has appeared 35 times.
+We've seen with blocks returning the should type 0 times, and we've seen with blocks 13.0 times and should returned 7563.0 times.
+Function expects has appeared 80.0 times and client has appeared 1124.0 times, and they've appeared 0 times together.
+Function call returns:float has appeared 0 times, and the most common alternative returns:array has appeared 11 times.
+Function should has appeared 33694.0 times and to_xml has appeared 309.0 times, and they've appeared 0 times together.
+Function call Nokogiri.XML:str has appeared 0 times, and the most common alternative Nokogiri.XML:lvar has appeared 67 times.
+Function should has appeared 33694.0 times and element_name has appeared 90.0 times, and they've appeared 0 times together.
+Function element_name has appeared 90.0 times and node has appeared 1812.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and jid has appeared 471.0 times, and they've appeared 0 times together.
+Function should_not has appeared 1134.0 times and xpath has appeared 301.0 times, and they've appeared 0 times together.
+Function [] has appeared 219183.0 times and find_first has appeared 27.0 times, and they've appeared 0 times together.
+Function should_not has appeared 1134.0 times and find has appeared 3899.0 times, and they've appeared 0 times together.
+Function call find:str,hash has appeared 0 times, and the most common alternative find: has appeared 2320 times.
+Function jid has appeared 471.0 times and client has appeared 1124.0 times, and they've appeared 0 times together.
+Function call Message.new:str,str has appeared 0 times, and the most common alternative Message.new:lvar,lvar has appeared 15 times.
+We've seen with blocks returning the true type 0 times, and we've seen with blocks 13.0 times and true returned 400.0 times.
+File 140: 21 / 1128
+We've seen let blocks returning the - type 0 times, and we've seen let blocks 11.0 times and - returned 255.0 times.
+We've seen let blocks returning the str type 0 times, and we've seen let blocks 11.0 times and str returned 938.0 times.
+Function stubs has appeared 87.0 times and client has appeared 1124.0 times, and they've appeared 0 times together.
+Function with has appeared 476.0 times and send has appeared 11209.0 times, and they've appeared 0 times together.
+Function send has appeared 11209.0 times and expects has appeared 80.0 times, and they've appeared 0 times together.
+We've seen with blocks returning the and type 0 times, and we've seen with blocks 13.0 times and and returned 1440.0 times.
+We've seen with blocks returning the kind_of? type 0 times, and we've seen with blocks 13.0 times and kind_of? returned 245.0 times.
+Function expects has appeared 80.0 times and client has appeared 1124.0 times, and they've appeared 0 times together.
+Function call Message.new:str,str has appeared 0 times, and the most common alternative Message.new:lvar,lvar has appeared 15 times.
+We've seen with blocks returning the should type 0 times, and we've seen with blocks 13.0 times and should returned 7563.0 times.
+File 141: 10 / 104
+We've seen let blocks returning the new type 0 times, and we've seen let blocks 11.0 times and new returned 200.0 times.
+We've seen after blocks returning the finish type 0 times, and we've seen after blocks 780.0 times and finish returned 18.0 times.
+Function finish has appeared 275.0 times and subject has appeared 602.0 times, and they've appeared 0 times together.
+Function receive_data has appeared 24.0 times and subject has appeared 602.0 times, and they've appeared 0 times together.
+Function data has appeared 2930.0 times and client has appeared 1124.0 times, and they've appeared 0 times together.
+Function call process:str,str,str has appeared 0 times, and the most common alternative process: has appeared 201 times.
+Function to_s has appeared 29241.0 times and Nokogiri.XML has appeared 122.0 times, and they've appeared 0 times together.
+Function call process:str,str has appeared 0 times, and the most common alternative process: has appeared 201 times.
+Function xpath has appeared 301.0 times and document has appeared 943.0 times, and they've appeared 0 times together.
+Function call process:str,str,str,str has appeared 0 times, and the most common alternative process: has appeared 201 times.
+Function should_not has appeared 1134.0 times and xpath has appeared 301.0 times, and they've appeared 0 times together.
+File 142: 11 / 154
+We've seen let blocks returning the File.join type 0 times, and we've seen let blocks 11.0 times and File.join returned 139.0 times.
+We've seen let blocks returning the File.read type 0 times, and we've seen let blocks 11.0 times and File.read returned 15.0 times.
+Function call cert_path: has appeared 0 times, and the most common alternative cert_path:lvar has appeared 12 times.
+Function should has appeared 33694.0 times and trusted? has appeared 21.0 times, and they've appeared 0 times together.
+Function trusted? has appeared 21.0 times and subject has appeared 602.0 times, and they've appeared 0 times together.
+Function [] has appeared 219183.0 times and cert has appeared 34.0 times, and they've appeared 0 times together.
+Function length has appeared 10336.0 times and cert has appeared 34.0 times, and they've appeared 0 times together.
+File 143: 7 / 24
+Function should has appeared 33694.0 times and element_name has appeared 90.0 times, and they've appeared 0 times together.
+Function element_name has appeared 90.0 times and new has appeared 7897.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and href has appeared 380.0 times, and they've appeared 0 times together.
+File 144: 3 / 47
+Current % recommended: 0.0312
+
+File 145: 0 / 34
+
+File 146: 0 / 311
+
+File 147: 0 / 16
+
+File 148: 0 / 8
+Function after has appeared 914.0 times and place has appeared 241.0 times, and they've appeared 0 times together.
+File 149: 1 / 10
+
+File 150: 0 / 1
+We've seen proc blocks returning the instance_eval type 0 times, and we've seen proc blocks 7446.0 times and instance_eval returned 113.0 times.
+File 151: 1 / 93
+Function call join:or has appeared 5 times, and the most common alternative join:str has appeared 12279 times.
+File 152: 1 / 130
+Current % recommended: 0.0303
+
+File 153: 0 / 19
+
+File 154: 0 / 22
+
+File 155: 0 / 20
+We've seen Routes.draw blocks returning the match type 0 times, and we've seen Routes.draw blocks 29.0 times and match returned 153.0 times.
+File 156: 1 / 41
+
+File 157: 0 / 6
+
+File 158: 0 / 71
+
+File 159: 0 / 110
+Function call path=:hash has appeared 0 times, and the most common alternative path=:lvar has appeared 73 times.
+File 160: 1 / 49
+Current % recommended: 0.0298
+We've seen assert_nothing_raised blocks returning the render type 0 times, and we've seen assert_nothing_raised blocks 492.0 times and render returned 1251.0 times.
+Function times has appeared 4451.0 times and expects has appeared 80.0 times, and they've appeared 0 times together.
+File 161: 2 / 76
+
+File 162: 0 / 60
+
+File 163: 0 / 95
+
+File 164: 0 / 49
+We've seen bash blocks returning the if type 0 times, and we've seen bash blocks 10.0 times and if returned 23728.0 times.
+File 165: 1 / 91
+Function root_path has appeared 169.0 times and new_resource has appeared 103.0 times, and they've appeared 0 times together.
+File 166: 1 / 60
+
+File 167: 0 / 21
+Function root_path has appeared 169.0 times and new_resource has appeared 103.0 times, and they've appeared 0 times together.
+File 168: 1 / 40
+Current % recommended: 0.0293
+Function root_path has appeared 169.0 times and new_resource has appeared 103.0 times, and they've appeared 0 times together.
+File 169: 1 / 36
+Function definition has appeared 96.0 times and new_resource has appeared 103.0 times, and they've appeared 0 times together.
+Function root_path has appeared 169.0 times and new_resource has appeared 103.0 times, and they've appeared 0 times together.
+Function action has appeared 312.0 times and new_resource has appeared 103.0 times, and they've appeared 0 times together.
+File 170: 3 / 119
+We've seen script blocks returning the environment type 0 times, and we've seen script blocks 19.0 times and environment returned 12.0 times.
+File 171: 1 / 69
+
+File 172: 0 / 23
+
+File 173: 0 / 46
+
+File 174: 0 / 43
+
+File 175: 0 / 65
+
+File 176: 0 / 46
+Current % recommended: 0.0289
+
+File 178: 0 / 40
+
+File 179: 0 / 35
+
+File 180: 0 / 31
+
+File 181: 0 / 38
+
+File 182: 0 / 41
+
+File 183: 0 / 36
+Function ! has appeared 23156.0 times and exited? has appeared 16.0 times, and they've appeared 0 times together.
+File 184: 1 / 173
+Current % recommended: 0.0283
+
+File 185: 0 / 26
+
+File 186: 0 / 14
+Function merge has appeared 5164.0 times and ENV.to_hash has appeared 34.0 times, and they've appeared 0 times together.
+File 187: 1 / 143
+Function == has appeared 88060.0 times and available has appeared 46.0 times, and they've appeared 0 times together.
+File 188: 1 / 52
+
+File 189: 0 / 56
+Function call fetch_size:str,hash has appeared 0 times, and the most common alternative fetch_size:lvar has appeared 6 times.
+File 190: 1 / 146
+Function call set_env: has appeared 0 times, and the most common alternative set_env:str,dstr has appeared 7 times.
+File 191: 1 / 66
+
+File 192: 0 / 19
+Current % recommended: 0.0278
+
+File 193: 0 / 181
+
+File 194: 0 / 12
+
+File 195: 0 / 11
+
+File 196: 0 / 12
+
+File 197: 0 / 11
+Function merge has appeared 5164.0 times and ENV.to_hash has appeared 34.0 times, and they've appeared 0 times together.
+The identifier ret has appeared 8 times as int and 319 times as array
+File 198: 2 / 140
+
+File 199: 0 / 70
+
+File 200: 0 / 9
+Current % recommended: 0.0272
+
+File 201: 0 / 3
+
+File 202: 0 / 89
+Function kind_of? has appeared 10390.0 times and to_io has appeared 150.0 times, and they've appeared 0 times together.
+File 203: 1 / 23
+
+File 204: 0 / 363
+
+File 205: 0 / 76
+Function merge has appeared 5164.0 times and ENV.to_hash has appeared 34.0 times, and they've appeared 0 times together.
+File 206: 1 / 179
+
+File 207: 0 / 83
+
+File 208: 0 / 33
+Current % recommended: 0.0262
+
+File 209: 0 / 177
+Function should has appeared 33694.0 times and stdout has appeared 560.0 times, and they've appeared 0 times together.
+Function stdout has appeared 560.0 times and io has appeared 413.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and stderr has appeared 19.0 times, and they've appeared 0 times together.
+Function stderr has appeared 19.0 times and io has appeared 413.0 times, and they've appeared 0 times together.
+File 210: 4 / 12
+Function call it:str,hash has appeared 12 times, and the most common alternative it:str has appeared 19737 times.
+We've seen expect blocks returning the start type 0 times, and we've seen expect blocks 34.0 times and start returned 123.0 times.
+Function call ignored:str has appeared 0 times, and the most common alternative ignored: has appeared 10 times.
+We've seen it blocks returning the stop type 0 times, and we've seen it blocks 19306.0 times and stop returned 133.0 times.
+We've seen Tempfile.open blocks returning the == type 0 times, and we've seen Tempfile.open blocks 53.0 times and == returned 14905.0 times.
+We've seen Tempfile.open blocks returning the should_not type 0 times, and we've seen Tempfile.open blocks 53.0 times and should_not returned 507.0 times.
+We've seen Dir.chdir blocks returning the start type 0 times, and we've seen Dir.chdir blocks 399.0 times and start returned 123.0 times.
+File 211: 7 / 206
+Function call echo: has appeared 0 times, and the most common alternative echo:str has appeared 10 times.
+Function call it:str,hash has appeared 12 times, and the most common alternative it:str has appeared 19737 times.
+File 212: 2 / 217
+Function call it_behaves_like:str has appeared 0 times, and the most common alternative it_behaves_like:sym,str has appeared 847 times.
+File 213: 1 / 24
+We've seen Tempfile.open blocks returning the == type 0 times, and we've seen Tempfile.open blocks 53.0 times and == returned 14905.0 times.
+File 214: 1 / 13
+We've seen each_key blocks returning the ENV.[]= type 0 times, and we've seen each_key blocks 258.0 times and ENV.[]= returned 100.0 times.
+Function close has appeared 4331.0 times and TCPServer.new has appeared 98.0 times, and they've appeared 0 times together.
+We've seen after blocks returning the and type 0 times, and we've seen after blocks 780.0 times and and returned 1440.0 times.
+File 215: 3 / 216
+Function call it_behaves_like:str has appeared 0 times, and the most common alternative it_behaves_like:sym,str has appeared 847 times.
+We've seen it blocks returning the and_return type 0 times, and we've seen it blocks 19306.0 times and and_return returned 10.0 times.
+We've seen lambda blocks returning the stop type 0 times, and we've seen lambda blocks 7889.0 times and stop returned 133.0 times.
+File 216: 3 / 53
+Current % recommended: 0.0261
+Function call it_behaves_like:str has appeared 0 times, and the most common alternative it_behaves_like:sym,str has appeared 847 times.
+File 217: 1 / 23
+
+File 218: 0 / 64
+
+File 219: 0 / 58
+
+File 220: 0 / 374
+We've seen index blocks returning the is_a? type 0 times, and we've seen index blocks 38.0 times and is_a? returned 220.0 times.
+Function source_location has appeared 91.0 times and [] has appeared 219183.0 times, and they've appeared 0 times together.
+We've seen lambda blocks returning the valid? type 0 times, and we've seen lambda blocks 7889.0 times and valid? returned 13.0 times.
+File 221: 3 / 233
+
+File 222: 0 / 95
+We've seen each blocks returning the check type 0 times, and we've seen each blocks 39550.0 times and check returned 16.0 times.
+File 223: 1 / 69
+Function call double:float has appeared 0 times, and the most common alternative double:lvar has appeared 12 times.
+Function call double:str has appeared 0 times, and the most common alternative double:lvar has appeared 12 times.
+We've seen expect blocks returning the show type 0 times, and we've seen expect blocks 34.0 times and show returned 38.0 times.
+Function call show:int has appeared 0 times, and the most common alternative show:hash has appeared 6 times.
+File 224: 4 / 195
+Current % recommended: 0.0252
+Function call double:str has appeared 0 times, and the most common alternative double:lvar has appeared 12 times.
+Function call square:int has appeared 0 times, and the most common alternative square: has appeared 18 times.
+Function call square:str has appeared 0 times, and the most common alternative square: has appeared 18 times.
+Function call square:array has appeared 0 times, and the most common alternative square: has appeared 18 times.
+Function call person:hash has appeared 0 times, and the most common alternative person: has appeared 152 times.
+We've seen call blocks returning the + type 0 times, and we've seen call blocks 107.0 times and + returned 1961.0 times.
+We've seen expect blocks returning the call type 0 times, and we've seen expect blocks 34.0 times and call returned 1178.0 times.
+Function call sum:int,int,int has appeared 0 times, and the most common alternative sum:block_pass has appeared 17 times.
+Function call sum:int,int,str has appeared 0 times, and the most common alternative sum:block_pass has appeared 17 times.
+Function call map:array,block has appeared 0 times, and the most common alternative map: has appeared 11562 times.
+We've seen expect blocks returning the to type 0 times, and we've seen expect blocks 34.0 times and to returned 28.0 times.
+Function to has appeared 426.0 times and map has appeared 13810.0 times, and they've appeared 0 times together.
+We've seen after blocks returning the defs type 0 times, and we've seen after blocks 780.0 times and defs returned 98.0 times.
+File 225: 13 / 193
+
+File 226: 0 / 187
+
+File 227: 0 / 20
+
+File 228: 0 / 49
+
+File 229: 0 / 202
+
+File 230: 0 / 202
+
+File 231: 0 / 299
+
+File 232: 0 / 258
+Current % recommended: 0.0243
+
+File 233: 0 / 59
+
+File 234: 0 / 81
+
+File 235: 0 / 104
+
+File 236: 0 / 42
+
+File 237: 0 / 3
+
+File 238: 0 / 13
+We've seen should blocks returning the == type 0 times, and we've seen should blocks 254.0 times and == returned 14905.0 times.
+Function should has appeared 33694.0 times and Name has appeared 28.0 times, and they've appeared 0 times together.
+Function call Status: has appeared 0 times, and the most common alternative Status:send has appeared 6 times.
+Function should has appeared 33694.0 times and email_address has appeared 20.0 times, and they've appeared 0 times together.
+We've seen should blocks returning the delete type 0 times, and we've seen should blocks 254.0 times and delete returned 748.0 times.
+File 239: 5 / 37
+We've seen should blocks returning the == type 0 times, and we've seen should blocks 254.0 times and == returned 14905.0 times.
+We've seen should blocks returning the send type 0 times, and we've seen should blocks 254.0 times and send returned 1505.0 times.
+We've seen should blocks returning the delete type 0 times, and we've seen should blocks 254.0 times and delete returned 748.0 times.
+Function should has appeared 33694.0 times and Name has appeared 28.0 times, and they've appeared 0 times together.
+Function Name has appeared 28.0 times and first has appeared 10694.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and Date has appeared 12.0 times, and they've appeared 0 times together.
+Function Date has appeared 12.0 times and first has appeared 10694.0 times, and they've appeared 0 times together.
+Function call City: has appeared 0 times, and the most common alternative City:send has appeared 5 times.
+File 240: 8 / 295
+Current % recommended: 0.0242
+We've seen setup blocks returning the == type 0 times, and we've seen setup blocks 179.0 times and == returned 14905.0 times.
+Function should has appeared 33694.0 times and client_id has appeared 34.0 times, and they've appeared 0 times together.
+We've seen should blocks returning the == type 0 times, and we've seen should blocks 254.0 times and == returned 14905.0 times.
+Function should has appeared 33694.0 times and Name has appeared 28.0 times, and they've appeared 0 times together.
+Function Name has appeared 28.0 times and first has appeared 10694.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and Date has appeared 12.0 times, and they've appeared 0 times together.
+Function Date has appeared 12.0 times and first has appeared 10694.0 times, and they've appeared 0 times together.
+We've seen should blocks returning the lvasgn type 0 times, and we've seen should blocks 254.0 times and lvasgn returned 2211.0 times.
+Function call Status: has appeared 0 times, and the most common alternative Status:send has appeared 6 times.
+We've seen should blocks returning the delete type 0 times, and we've seen should blocks 254.0 times and delete returned 748.0 times.
+File 241: 10 / 222
+We've seen should blocks returning the == type 0 times, and we've seen should blocks 254.0 times and == returned 14905.0 times.
+We've seen should blocks returning the should type 0 times, and we've seen should blocks 254.0 times and should returned 7563.0 times.
+Function should has appeared 33694.0 times and Name has appeared 28.0 times, and they've appeared 0 times together.
+Function Name has appeared 28.0 times and first has appeared 10694.0 times, and they've appeared 0 times together.
+Function call Status: has appeared 0 times, and the most common alternative Status:send has appeared 6 times.
+We've seen lambda blocks returning the update type 0 times, and we've seen lambda blocks 7889.0 times and update returned 163.0 times.
+Function call update:str,str,str has appeared 0 times, and the most common alternative update:lvar,block_pass has appeared 8 times.
+File 242: 7 / 334
+
+File 243: 0 / 78
+We've seen should blocks returning the == type 0 times, and we've seen should blocks 254.0 times and == returned 14905.0 times.
+We've seen should blocks returning the update type 0 times, and we've seen should blocks 254.0 times and update returned 163.0 times.
+We've seen should blocks returning the delete type 0 times, and we've seen should blocks 254.0 times and delete returned 748.0 times.
+The identifier options has appeared 23 times as array and 587 times as hash
+Function should has appeared 33694.0 times and Name has appeared 28.0 times, and they've appeared 0 times together.
+Function Name has appeared 28.0 times and first has appeared 10694.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and Date has appeared 12.0 times, and they've appeared 0 times together.
+Function Date has appeared 12.0 times and first has appeared 10694.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and Value has appeared 17.0 times, and they've appeared 0 times together.
+Function call Status: has appeared 0 times, and the most common alternative Status:send has appeared 6 times.
+File 244: 10 / 280
+We've seen should blocks returning the == type 0 times, and we've seen should blocks 254.0 times and == returned 14905.0 times.
+Function should has appeared 33694.0 times and Name has appeared 28.0 times, and they've appeared 0 times together.
+Function call Status: has appeared 0 times, and the most common alternative Status:send has appeared 6 times.
+Function should has appeared 33694.0 times and email_address has appeared 20.0 times, and they've appeared 0 times together.
+We've seen should blocks returning the delete type 0 times, and we've seen should blocks 254.0 times and delete returned 748.0 times.
+File 245: 5 / 39
+We've seen should blocks returning the == type 0 times, and we've seen should blocks 254.0 times and == returned 14905.0 times.
+We've seen should blocks returning the update type 0 times, and we've seen should blocks 254.0 times and update returned 163.0 times.
+Function should has appeared 33694.0 times and Name has appeared 28.0 times, and they've appeared 0 times together.
+Function Name has appeared 28.0 times and first has appeared 10694.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and Date has appeared 12.0 times, and they've appeared 0 times together.
+Function Date has appeared 12.0 times and first has appeared 10694.0 times, and they've appeared 0 times together.
+We've seen should blocks returning the delete type 0 times, and we've seen should blocks 254.0 times and delete returned 748.0 times.
+File 246: 7 / 73
+We've seen should blocks returning the == type 0 times, and we've seen should blocks 254.0 times and == returned 14905.0 times.
+Function should has appeared 33694.0 times and Name has appeared 28.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and Date has appeared 12.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and Value has appeared 17.0 times, and they've appeared 0 times together.
+Function Value has appeared 17.0 times and first has appeared 10694.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and email_address has appeared 20.0 times, and they've appeared 0 times together.
+We've seen should blocks returning the should type 0 times, and we've seen should blocks 254.0 times and should returned 7563.0 times.
+We've seen should blocks returning the unsubscribe type 0 times, and we've seen should blocks 254.0 times and unsubscribe returned 6.0 times.
+Function Name has appeared 28.0 times and first has appeared 10694.0 times, and they've appeared 0 times together.
+Function should has appeared 33694.0 times and Type has appeared 12.0 times, and they've appeared 0 times together.
+Function Type has appeared 12.0 times and first has appeared 10694.0 times, and they've appeared 0 times together.
+Function call ID: has appeared 0 times, and the most common alternative ID:send has appeared 10 times.
+Function Date has appeared 12.0 times and first has appeared 10694.0 times, and they've appeared 0 times together.
+We've seen should blocks returning the delete type 0 times, and we've seen should blocks 254.0 times and delete returned 748.0 times.
+File 247: 14 / 164
+We've seen should blocks returning the == type 0 times, and we've seen should blocks 254.0 times and == returned 14905.0 times.
+Function should has appeared 33694.0 times and Name has appeared 28.0 times, and they've appeared 0 times together.
+We've seen should blocks returning the update type 0 times, and we've seen should blocks 254.0 times and update returned 163.0 times.
+Function call update:str,str,str has appeared 0 times, and the most common alternative update:lvar,block_pass has appeared 8 times.
+We've seen should blocks returning the delete type 0 times, and we've seen should blocks 254.0 times and delete returned 748.0 times.
+File 248: 5 / 36
+Current % recommended: 0.0253
+
+File 249: 0 / 1
+
+File 250: 0 / 20
+We've seen Signal.trap blocks returning the gvasgn type 0 times, and we've seen Signal.trap blocks 85.0 times and gvasgn returned 328.0 times.
+File 251: 1 / 21
+We've seen  blocks returning the instance_eval type 0 times, and we've seen  blocks 192.0 times and instance_eval returned 113.0 times.
+File 252: 1 / 22
+
+File 253: 0 / 29
+Function == has appeared 88060.0 times and kcode has appeared 13.0 times, and they've appeared 0 times together.
+File 254: 1 / 28
+
+File 255: 0 / 24
+We've seen LOCK.synchronize blocks returning the ivasgn type 0 times, and we've seen LOCK.synchronize blocks 8.0 times and ivasgn returned 3205.0 times.
+File 256: 1 / 53
+Current % recommended: 0.0252
+We've seen Array.new blocks returning the Variable.new type 0 times, and we've seen Array.new blocks 289.0 times and Variable.new returned 6.0 times.
+We've seen flow blocks returning the call type 0 times, and we've seen flow blocks 89.0 times and call returned 1178.0 times.
+File 257: 2 / 121
+
+File 258: 0 / 9
+The identifier @used has appeared 0 times as int and 11 times as hash
+File 259: 1 / 43
+We've seen Array.new blocks returning the Variable.new type 0 times, and we've seen Array.new blocks 289.0 times and Variable.new returned 6.0 times.
+File 260: 1 / 17
+We've seen Array.new blocks returning the Variable.new type 0 times, and we've seen Array.new blocks 289.0 times and Variable.new returned 6.0 times.
+File 261: 1 / 13
+We've seen flow blocks returning the int type 0 times, and we've seen flow blocks 89.0 times and int returned 355.0 times.
+File 262: 1 / 20
+
+File 263: 0 / 12
+
+File 264: 0 / 11
+Current % recommended: 0.0252
+
+File 265: 0 / 14
+
+File 266: 0 / 9
+
+File 267: 0 / 11
+
+File 268: 0 / 26
+Function map has appeared 13810.0 times and take has appeared 95.0 times, and they've appeared 0 times together.
+File 269: 1 / 13
+Function call send:int has appeared 0 times, and the most common alternative send:sym,dstr has appeared 57 times.
+Function sort has appeared 2874.0 times and take has appeared 95.0 times, and they've appeared 0 times together.
+File 270: 2 / 10
+We've seen Array.new blocks returning the Variable.new type 0 times, and we've seen Array.new blocks 289.0 times and Variable.new returned 6.0 times.
+File 271: 1 / 21
+Function call send:int has appeared 0 times, and the most common alternative send:sym,dstr has appeared 57 times.
+Function sort has appeared 2874.0 times and take has appeared 95.0 times, and they've appeared 0 times together.
+File 272: 2 / 28
+Current % recommended: 0.0253
+
+File 273: 0 / 21
+
+File 274: 0 / 25
+
+File 275: 0 / 55
+Function should has appeared 33694.0 times and z has appeared 252.0 times, and they've appeared 0 times together.
+File 276: 1 / 151
+
+File 277: 0 / 32
+
+File 278: 0 / 40
+We've seen flow blocks returning the str type 0 times, and we've seen flow blocks 89.0 times and str returned 938.0 times.
+File 279: 1 / 25
+We've seen flow blocks returning the int type 0 times, and we've seen flow blocks 89.0 times and int returned 355.0 times.
+File 280: 1 / 28
+Current % recommended: 0.0251
+We've seen Thread.new blocks returning the pop type 0 times, and we've seen Thread.new blocks 979.0 times and pop returned 66.0 times.
+File 281: 1 / 31
+
+File 282: 0 / 19
+
+File 283: 0 / 12
+Function call send:int has appeared 0 times, and the most common alternative send:sym,dstr has appeared 57 times.
+Function sort has appeared 2874.0 times and take has appeared 95.0 times, and they've appeared 0 times together.
+File 284: 2 / 26
+
+File 285: 0 / 12
+
+File 286: 0 / 27
+
+File 287: 0 / 17
+
+File 288: 0 / 11
+Current % recommended: 0.025
+
+File 289: 0 / 46
+
+File 290: 0 / 3
+
+File 291: 0 / 10
+
+File 292: 0 / 20
+Function should_receive has appeared 1592.0 times and instance_variable_get has appeared 1163.0 times, and they've appeared 0 times together.
+File 293: 1 / 10
+Function call mock:str,hash has appeared 0 times, and the most common alternative mock: has appeared 35 times.
+Function should_receive has appeared 1592.0 times and instance_variable_get has appeared 1163.0 times, and they've appeared 0 times together.
+File 294: 2 / 67
+We've seen RSpec.configure blocks returning the NilClass type 0 times, and we've seen RSpec.configure blocks 11.0 times and NilClass returned 1206.0 times.
+File 295: 1 / 9
+
+File 296: 0 / 14
+Current % recommended: 0.025
+
+File 297: 0 / 128
+
+File 298: 0 / 240
+
+File 299: 0 / 13
+
+File 300: 0 / 5487
+
+File 301: 0 / 14
+
+File 302: 0 / 1012
+
+File 303: 0 / 20
+
+File 304: 0 / 1792
+Current % recommended: 0.019
+
+File 305: 0 / 549
+
+File 306: 0 / 18
+
+File 307: 0 / 415
+
+File 308: 0 / 12
+Function ascend has appeared 21.0 times and Pathname.new has appeared 463.0 times, and they've appeared 0 times together.
+File 309: 1 / 33
+
+File 310: 0 / 42
+
+File 311: 0 / 22
+We've seen permutation blocks returning the block type 0 times, and we've seen permutation blocks 6.0 times and block returned 27739.0 times.
+Function permutation has appeared 25.0 times and [] has appeared 219183.0 times, and they've appeared 0 times together.
+We've seen permutation blocks returning the yield type 0 times, and we've seen permutation blocks 6.0 times and yield returned 2905.0 times.
+File 312: 3 / 31
+Current % recommended: 0.0185
+
+File 313: 0 / 29
+
+File 314: 0 / 48
+
+File 315: 0 / 19
+
+File 316: 0 / 13
+
+File 317: 0 / 37
+
+File 318: 0 / 16
+
+File 319: 0 / 1
+
+File 320: 0 / 36
+Current % recommended: 0.0184
+
+File 321: 0 / 1
+
+File 322: 0 / 47
+
+File 323: 0 / 16
+
+File 324: 0 / 8
+Function != has appeared 12443.0 times and uniq has appeared 1210.0 times, and they've appeared 0 times together.
+The identifier rec has appeared 0 times as str and 7 times as array
+File 325: 2 / 31
+
+File 326: 0 / 20
+
+File 327: 0 / 30
+
+File 328: 0 / 1
+Current % recommended: 0.0184
+
+File 329: 0 / 19
+
+File 330: 0 / 59
+
+File 331: 0 / 32
+Function rindex has appeared 637.0 times and to_s has appeared 29241.0 times, and they've appeared 0 times together.
+Function to_sym has appeared 4993.0 times and slice has appeared 710.0 times, and they've appeared 0 times together.
+File 332: 2 / 27
+
+File 333: 0 / 33
+
+File 334: 0 / 1
+
+File 335: 0 / 38
+
+File 336: 0 / 11
+Current % recommended: 0.0183
+
+File 337: 0 / 1
+
+File 338: 0 / 36
+The identifier sep has appeared 1 times as array and 93 times as str
+File 339: 1 / 88
+
+File 340: 0 / 6
+
+File 341: 0 / 3
+
+File 342: 0 / 14
+The identifier idx has appeared 0 times as array and 241 times as int
+File 343: 1 / 49
+
+File 344: 0 / 19
+Current % recommended: 0.0183
+
+File 345: 0 / 1
+
+File 346: 0 / 13
+
+File 347: 0 / 5
+
+File 348: 0 / 38
+
+File 349: 0 / 30
+
+File 350: 0 / 32
+
+File 351: 0 / 30
+
+File 352: 0 / 32
+Current % recommended: 0.0182
+
+File 353: 0 / 21
+
+File 354: 0 / 21
+
+File 355: 0 / 67
+
+File 356: 0 / 12
+
+File 357: 0 / 1
+
+File 358: 0 / 36
+
+File 359: 0 / 13
+
+File 360: 0 / 40
+Current % recommended: 0.0181
+
+File 361: 0 / 1
+
+File 362: 0 / 1
+The identifier size has appeared 0 times as float and 102 times as int
+File 363: 1 / 38
+
+File 364: 0 / 14
+
+File 365: 0 / 30
+
+File 366: 0 / 29
+
+File 367: 0 / 47
+
+File 368: 0 / 27
+Current % recommended: 0.018
+
+File 369: 0 / 26
+
+File 370: 0 / 11
+
+File 371: 0 / 1
+
+File 372: 0 / 17
+Function traverse has appeared 166.0 times and to_ary has appeared 177.0 times, and they've appeared 0 times together.
+File 373: 1 / 43
+Function call []:yield has appeared 6 times, and the most common alternative []:sym has appeared 85958 times.
+File 374: 1 / 15
+
+File 375: 0 / 14
+
+File 376: 0 / 44
+Current % recommended: 0.018
+
+File 377: 0 / 1
+
+File 378: 0 / 1
+
+File 379: 0 / 1
+
+File 380: 0 / 43
+
+File 381: 0 / 1
+
+File 382: 0 / 11
+
+File 383: 0 / 17
+
+File 384: 0 / 4
+Current % recommended: 0.018
+
+File 385: 0 / 26
+
+File 386: 0 / 1
+
+File 387: 0 / 16
+
+File 388: 0 / 11
+
+File 389: 0 / 14
+
+File 390: 0 / 120
+
+File 391: 0 / 1
+
+File 392: 0 / 1
+Current % recommended: 0.0179
+
+File 393: 0 / 35
+We've seen reverse_each blocks returning the call type 0 times, and we've seen reverse_each blocks 354.0 times and call returned 1178.0 times.
+File 394: 1 / 12
+
+File 395: 0 / 18
+
+File 396: 0 / 18
+
+File 397: 0 / 54
+
+File 398: 0 / 1
+
+File 399: 0 / 16
+
+File 400: 0 / 27
+Current % recommended: 0.0178
+
+File 401: 0 / 24
+
+File 402: 0 / 10
+
+File 403: 0 / 1
+
+File 404: 0 / 1
+
+File 405: 0 / 1
+
+File 406: 0 / 34
+
+File 407: 0 / 38
+
+File 408: 0 / 40
+Current % recommended: 0.0178
+
+File 409: 0 / 44
+
+File 410: 0 / 9
+
+File 411: 0 / 76
+
+File 412: 0 / 55
+
+File 413: 0 / 1
+
+File 414: 0 / 15
+
+File 415: 0 / 78
+
+File 416: 0 / 15
+Current % recommended: 0.0176
+Function ! has appeared 23156.0 times and FileTest.symlink? has appeared 20.0 times, and they've appeared 0 times together.
+File 417: 1 / 34
+
+File 418: 0 / 8
+
+File 419: 0 / 64
+
+File 420: 0 / 6
+Function call ==:yield has appeared 3 times, and the most common alternative ==:lvar has appeared 7692 times.
+File 421: 1 / 23
+
+File 422: 0 / 1
+
+File 423: 0 / 35
+
+File 424: 0 / 52
+Current % recommended: 0.0176
+
+File 425: 0 / 45
+
+File 426: 0 / 32
+
+File 427: 0 / 39
+
+File 428: 0 / 58
+
+File 429: 0 / 16
+
+File 430: 0 / 14
+
+File 431: 0 / 32
+
+File 432: 0 / 41
+Current % recommended: 0.0175
+
+File 433: 0 / 23
+Function call []:splat has appeared 79 times, and the most common alternative []:sym has appeared 85958 times.
+File 434: 1 / 33
+Function call []:yield has appeared 6 times, and the most common alternative []:sym has appeared 85958 times.
+File 435: 1 / 32
+
+File 437: 0 / 18
+
+File 438: 0 / 19
+The identifier h has appeared 3 times as array and 310 times as hash
+File 439: 1 / 25
+
+File 440: 0 / 34
+Current % recommended: 0.0175
+
+File 441: 0 / 1
+
+File 442: 0 / 25
+
+File 443: 0 / 12
+
+File 444: 0 / 21
+
+File 445: 0 / 22
+Function call []:splat has appeared 79 times, and the most common alternative []:sym has appeared 85958 times.
+File 446: 1 / 33
+
+File 447: 0 / 21
+
+File 448: 0 / 31
+Current % recommended: 0.0174
+
+File 449: 0 / 37
+The identifier matches has appeared 3 times as int and 103 times as array
+File 450: 1 / 38
+
+File 451: 0 / 35
+Function pop has appeared 3537.0 times and transpose has appeared 120.0 times, and they've appeared 0 times together.
+Function sort has appeared 2874.0 times and group_by has appeared 137.0 times, and they've appeared 0 times together.
+File 452: 2 / 20
+
+File 453: 0 / 20
+
+File 454: 0 / 84
+
+File 455: 0 / 43
+We've seen __send__ blocks returning the case type 0 times, and we've seen __send__ blocks 108.0 times and case returned 1937.0 times.
+File 456: 1 / 65
+Current % recommended: 0.0174
+
+File 457: 0 / 18
+
+File 458: 0 / 16
+
+File 459: 0 / 23
+Function call []:yield has appeared 6 times, and the most common alternative []:sym has appeared 85958 times.
+File 460: 1 / 12
+
+File 461: 0 / 25
+
+File 462: 0 / 29
+
+File 463: 0 / 1
+
+File 464: 0 / 45
+Current % recommended: 0.0173
+
+File 465: 0 / 35
+Function call []:splat has appeared 79 times, and the most common alternative []:sym has appeared 85958 times.
+File 466: 1 / 74
+
+File 467: 0 / 7
+
+File 468: 0 / 16
+
+File 469: 0 / 79
+
+File 470: 0 / 14
+
+File 471: 0 / 9
+
+File 472: 0 / 21
+Current % recommended: 0.0172
+
+File 473: 0 / 5
+
+File 474: 0 / 13
+
+File 475: 0 / 9
+
+File 476: 0 / 26
+Function call join:send,dstr has appeared 1 times, and the most common alternative join:str has appeared 12279 times.
+File 477: 1 / 58
+
+File 478: 0 / 17
+
+File 479: 0 / 20
+
+File 480: 0 / 35
+Current % recommended: 0.0172
+
+File 481: 0 / 20
+
+File 482: 0 / 17
+
+File 483: 0 / 33
+
+File 484: 0 / 89
+
+File 485: 0 / 22
+
+File 486: 0 / 17
+
+File 487: 0 / 18
+
+File 488: 0 / 12
+Current % recommended: 0.0171
+
+File 489: 0 / 23
+
+File 490: 0 / 26
+
+File 491: 0 / 17
+
+File 492: 0 / 1
+Function != has appeared 12443.0 times and sub has appeared 3124.0 times, and they've appeared 0 times together.
+File 493: 1 / 12
+
+File 494: 0 / 38
+
+File 495: 0 / 16
+
+File 496: 0 / 19
+Current % recommended: 0.0171
+
+File 497: 0 / 19
+
+File 498: 0 / 8
+
+File 499: 0 / 6
+
+File 500: 0 / 1
+
+File 501: 0 / 3
+
+File 502: 0 / 4
+
+File 503: 0 / 30
+
+File 504: 0 / 27
+Current % recommended: 0.017
+
+File 505: 0 / 7
+
+File 506: 0 / 23
+
+File 507: 0 / 34
+
+File 508: 0 / 11
+
+File 509: 0 / 41
+
+File 510: 0 / 45
+
+File 511: 0 / 32
+
+File 512: 0 / 4
+Current % recommended: 0.0169
+
+File 513: 0 / 6
+
+File 514: 0 / 16
+Function call delete:lvar,block_pass has appeared 2 times, and the most common alternative delete:sym has appeared 3253 times.
+File 515: 1 / 41
+
+File 516: 0 / 17
+
+File 517: 0 / 12
+
+File 518: 0 / 24
+
+File 519: 0 / 17
+
+File 520: 0 / 19
+Current % recommended: 0.0169
+
+File 521: 0 / 29
+The identifier s has appeared 31 times as array and 386 times as str
+File 522: 1 / 17
+
+File 523: 0 / 35
+
+File 524: 0 / 1
+We've seen new blocks returning the []= type 0 times, and we've seen new blocks 50.0 times and []= returned 7664.0 times.
+File 525: 1 / 14
+
+File 526: 0 / 1
+
+File 527: 0 / 6
+
+File 528: 0 / 11
+Current % recommended: 0.0169
+
+File 529: 0 / 32
+
+File 530: 0 / 17
+
+File 531: 0 / 11
+
+File 532: 0 / 17
+
+File 533: 0 / 26
+
+File 534: 0 / 29
+We've seen __send__ blocks returning the case type 0 times, and we've seen __send__ blocks 108.0 times and case returned 1937.0 times.
+File 535: 1 / 60
+
+File 536: 0 / 81
+Current % recommended: 0.0168
+
+File 537: 0 / 15
+
+File 538: 0 / 29
+
+File 539: 0 / 38
+
+File 540: 0 / 1
+
+File 541: 0 / 24
+
+File 542: 0 / 16
+
+File 543: 0 / 91
+
+File 544: 0 / 20
+Current % recommended: 0.0167
+
+File 545: 0 / 32
+
+File 546: 0 / 1
+
+File 547: 0 / 38
+
+File 548: 0 / 16
+Function traverse has appeared 166.0 times and to_hash has appeared 652.0 times, and they've appeared 0 times together.
+File 549: 1 / 46
+
+File 550: 0 / 5
+
+File 551: 0 / 17
+
+File 552: 0 / 20
+Current % recommended: 0.0167
+
+File 553: 0 / 19
+
+File 554: 0 / 23
+
+File 555: 0 / 76
+
+File 556: 0 / 17
+
+File 557: 0 / 55
+
+File 558: 0 / 90
+
+File 559: 0 / 267
+
+File 560: 0 / 165
+Current % recommended: 0.0164
+
+File 561: 0 / 1
+
+File 562: 0 / 98
+
+File 563: 0 / 20
+
+File 564: 0 / 18
+
+File 565: 0 / 17
+
+File 566: 0 / 23
+
+File 567: 0 / 1
+
+File 568: 0 / 9
+Current % recommended: 0.0163
+
+File 569: 0 / 9
+
+File 570: 0 / 27
+
+File 571: 0 / 15
+
+File 572: 0 / 1
+
+File 573: 0 / 114
+
+File 574: 0 / 27
+
+File 575: 0 / 73
+
+File 576: 0 / 1
+Current % recommended: 0.0162
+
+File 577: 0 / 58
+
+File 578: 0 / 83
+
+File 579: 0 / 55
+
+File 580: 0 / 1
+
+File 581: 0 / 7
+
+File 582: 0 / 25
+
+File 583: 0 / 22
+
+File 584: 0 / 26
+Current % recommended: 0.0161
+
+File 585: 0 / 1
+Function call []:self has appeared 67 times, and the most common alternative []:sym has appeared 85958 times.
+File 586: 1 / 37
+
+File 587: 0 / 29
+
+File 588: 0 / 26
+We've seen class_eval blocks returning the __send__ type 0 times, and we've seen class_eval blocks 819.0 times and __send__ returned 295.0 times.
+File 589: 1 / 32
+
+File 590: 0 / 23
+
+File 591: 0 / 1
+
+File 592: 0 / 42
+Current % recommended: 0.0161
+
+File 593: 0 / 28
+
+File 594: 0 / 11
+
+File 595: 0 / 1
+
+File 596: 0 / 10
+
+File 597: 0 / 44
+
+File 598: 0 / 3
+
+File 599: 0 / 12
+
+File 600: 0 / 19
+Current % recommended: 0.0161
+
+File 601: 0 / 25
+
+File 602: 0 / 46
+
+File 603: 0 / 6
+
+File 604: 0 / 18
+
+File 605: 0 / 1
+
+File 606: 0 / 1
+
+File 607: 0 / 18
+
+File 608: 0 / 43
+Current % recommended: 0.016
+Function call alias_method:splat has appeared 1 times, and the most common alternative alias_method:sym,sym has appeared 4778 times.
+File 609: 1 / 23
+
+File 610: 0 / 17
+
+File 611: 0 / 19
+
+File 612: 0 / 19
+Function call []:self has appeared 67 times, and the most common alternative []:sym has appeared 85958 times.
+File 613: 1 / 50
+
+File 614: 0 / 1
+
+File 615: 0 / 36
+
+File 616: 0 / 17
+Current % recommended: 0.016
+
+File 617: 0 / 9
+Function << has appeared 59349.0 times and __id__ has appeared 295.0 times, and they've appeared 0 times together.
+File 618: 1 / 33
+
+File 619: 0 / 29
+
+File 620: 0 / 23
+
+File 621: 0 / 1
+
+File 622: 0 / 1
+
+File 623: 0 / 31
+
+File 624: 0 / 41
+Current % recommended: 0.016
+
+File 625: 0 / 51
+
+File 626: 0 / 42
+
+File 627: 0 / 27
+
+File 628: 0 / 72
+
+File 629: 0 / 1
+
+File 630: 0 / 10
+
+File 631: 0 / 12
+
+File 632: 0 / 11
+Current % recommended: 0.0159
+
+File 633: 0 / 36
+
+File 634: 0 / 23
+
+File 635: 0 / 27
+
+File 636: 0 / 25
+
+File 637: 0 / 57
+
+File 638: 0 / 18
+
+File 639: 0 / 19
+Function select has appeared 3022.0 times and private_methods has appeared 70.0 times, and they've appeared 0 times together.
+Function select has appeared 3022.0 times and protected_methods has appeared 47.0 times, and they've appeared 0 times together.
+File 640: 2 / 91
+Current % recommended: 0.0158
+
+File 641: 0 / 23
+
+File 642: 0 / 25
+
+File 643: 0 / 77
+
+File 644: 0 / 237
+
+File 645: 0 / 15
+
+File 646: 0 / 3
+
+File 647: 0 / 14
+
+File 648: 0 / 43
+Current % recommended: 0.0157
+
+File 649: 0 / 4
+
+File 650: 0 / 7
+Function owner has appeared 352.0 times and last has appeared 6129.0 times, and they've appeared 0 times together.
+Function receiver has appeared 37.0 times and first has appeared 10694.0 times, and they've appeared 0 times together.
+Function arity has appeared 613.0 times and last has appeared 6129.0 times, and they've appeared 0 times together.
+File 651: 3 / 96
+Function curry has appeared 62.0 times and to_proc has appeared 167.0 times, and they've appeared 0 times together.
+File 652: 1 / 13
+
+File 653: 0 / 16
+
+File 654: 0 / 1
+
+File 655: 0 / 1
+Function partial has appeared 23.0 times and to_proc has appeared 167.0 times, and they've appeared 0 times together.
+File 656: 1 / 9
+Current % recommended: 0.0157
+
+File 657: 0 / 6
+
+File 658: 0 / 24
+Function call alias_method:dstr,dstr has appeared 3 times, and the most common alternative alias_method:sym,sym has appeared 4778 times.
+File 659: 1 / 44
+
+File 660: 0 / 66
+
+File 661: 0 / 29
+
+File 662: 0 / 19
+
+File 663: 0 / 15
+
+File 664: 0 / 24
+Current % recommended: 0.0157
+
+File 665: 0 / 51
+
+File 666: 0 / 51
+Function call alias_method:dstr,dstr has appeared 3 times, and the most common alternative alias_method:sym,sym has appeared 4778 times.
+File 667: 1 / 56
+Function call alias_method:dstr,dstr has appeared 3 times, and the most common alternative alias_method:sym,sym has appeared 4778 times.
+File 668: 1 / 45
+
+File 669: 0 / 1
+
+File 670: 0 / 19
+
+File 671: 0 / 1
+
+File 672: 0 / 11
+Current % recommended: 0.0156
+
+File 673: 0 / 45
+
+File 674: 0 / 1
+
+File 675: 0 / 92
+
+File 676: 0 / 80
+
+File 677: 0 / 1
+
+File 678: 0 / 44
+
+File 679: 0 / 94
+
+File 680: 0 / 1
+Current % recommended: 0.0155
+
+File 681: 0 / 1
+
+File 682: 0 / 90
+
+File 683: 0 / 1
+
+File 684: 0 / 1
+
+File 685: 0 / 1
+We've seen collect blocks returning the & type 0 times, and we've seen collect blocks 6200.0 times and & returned 80.0 times.
+Function & has appeared 3502.0 times and private_instance_methods has appeared 58.0 times, and they've appeared 0 times together.
+File 686: 2 / 24
+
+File 687: 0 / 93
+Function call []:self has appeared 67 times, and the most common alternative []:sym has appeared 85958 times.
+File 688: 1 / 24
+Current % recommended: 0.0155
+Function find has appeared 3899.0 times and singleton_methods has appeared 48.0 times, and they've appeared 0 times together.
+File 689: 1 / 23
+
+File 690: 0 / 48
+Function include? has appeared 11055.0 times and slice has appeared 710.0 times, and they've appeared 0 times together.
+Function slice has appeared 710.0 times and ancestors has appeared 425.0 times, and they've appeared 0 times together.
+File 691: 2 / 56
+
+File 692: 0 / 29
+
+File 693: 0 / 31
+Function + has appeared 55071.0 times and cattr_reader has appeared 45.0 times, and they've appeared 0 times together.
+Function + has appeared 55071.0 times and mattr_reader has appeared 20.0 times, and they've appeared 0 times together.
+File 694: 2 / 296
+
+File 695: 0 / 16
+The identifier s has appeared 31 times as array and 386 times as str
+File 696: 1 / 65
+Current % recommended: 0.0154
+Function downcase has appeared 4571.0 times and basename has appeared 98.0 times, and they've appeared 0 times together.
+File 697: 1 / 107
+
+File 698: 0 / 19
+
+File 699: 0 / 1
+
+File 700: 0 / 30
+Function call []:self has appeared 67 times, and the most common alternative []:sym has appeared 85958 times.
+File 701: 1 / 82
+
+File 702: 0 / 12
+
+File 703: 0 / 106
+
+File 704: 0 / 1
+Current % recommended: 0.0154
+
+File 705: 0 / 1
+
+File 706: 0 / 1
+
+File 707: 0 / 19
+
+File 708: 0 / 31
+
+File 709: 0 / 37
+
+File 710: 0 / 46
+
+File 711: 0 / 1
+
+File 712: 0 / 29
+Current % recommended: 0.0153
+
+File 713: 0 / 39
+
+File 714: 0 / 35
+
+File 715: 0 / 1
+Function rindex has appeared 637.0 times and name has appeared 18148.0 times, and they've appeared 0 times together.
+File 716: 1 / 24
+
+File 717: 0 / 19
+
+File 718: 0 / 34
+
+File 719: 0 / 61
+
+File 720: 0 / 21
+Current % recommended: 0.0153
+
+File 721: 0 / 1
+
+File 722: 0 / 15
+
+File 723: 0 / 4
+
+File 724: 0 / 38
+
+File 725: 0 / 1
+
+File 726: 0 / 13
+
+File 727: 0 / 9
+
+File 728: 0 / 1
+Current % recommended: 0.0152
+
+File 729: 0 / 15
+
+File 730: 0 / 31
+
+File 731: 0 / 18
+
+File 732: 0 / 9
+
+File 733: 0 / 1
+
+File 734: 0 / 79
+
+File 735: 0 / 35
+
+File 736: 0 / 77
+Current % recommended: 0.0152
+
+File 737: 0 / 1
+
+File 738: 0 / 7
+
+File 739: 0 / 10
+
+File 740: 0 / 3
+
+File 741: 0 / 61
+
+File 742: 0 / 5
+
+File 743: 0 / 23
+
+File 744: 0 / 16
+Current % recommended: 0.0151
+Function call []:splat has appeared 79 times, and the most common alternative []:sym has appeared 85958 times.
+File 745: 1 / 41
+
+File 746: 0 / 33
+
+File 747: 0 / 37
+
+File 748: 0 / 9
+
+File 749: 0 / 8
+
+File 750: 0 / 31
+
+File 751: 0 / 3
+
+File 752: 0 / 47
+Current % recommended: 0.0151
+
+File 753: 0 / 11
+
+File 754: 0 / 18
+
+File 755: 0 / 25
+
+File 756: 0 / 1
+Function <=> has appeared 1978.0 times and max has appeared 983.0 times, and they've appeared 0 times together.
+File 757: 1 / 64
+
+File 758: 0 / 8
+
+File 759: 0 / 17
+
+File 760: 0 / 12
+Current % recommended: 0.015
+
+File 761: 0 / 17
+
+File 762: 0 / 14
+
+File 763: 0 / 28
+
+File 764: 0 / 7
+
+File 765: 0 / 88
+
+File 766: 0 / 11
+Function ljust has appeared 373.0 times and strip has appeared 3889.0 times, and they've appeared 0 times together.
+We've seen collect blocks returning the center type 0 times, and we've seen collect blocks 6200.0 times and center returned 11.0 times.
+File 767: 2 / 124
+
+File 768: 0 / 63
+Current % recommended: 0.015
+
+File 769: 0 / 1
+
+File 770: 0 / 72
+
+File 771: 0 / 48
+
+File 772: 0 / 12
+We've seen scan blocks returning the call type 0 times, and we've seen scan blocks 722.0 times and call returned 1178.0 times.
+File 773: 1 / 26
+
+File 774: 0 / 36
+
+File 775: 0 / 1
+
+File 776: 0 / 16
+Current % recommended: 0.0149
+
+File 777: 0 / 22
+
+File 778: 0 / 17
+
+File 779: 0 / 1
+
+File 780: 0 / 17
+
+File 781: 0 / 122
+
+File 782: 0 / 1
+
+File 783: 0 / 9
+
+File 784: 0 / 34
+Current % recommended: 0.0149
+
+File 785: 0 / 34
+Function =~ has appeared 12295.0 times and slice has appeared 710.0 times, and they've appeared 0 times together.
+File 786: 1 / 38
+
+File 787: 0 / 65
+
+File 788: 0 / 24
+
+File 789: 0 / 22
+
+File 790: 0 / 32
+
+File 791: 0 / 18
+
+File 792: 0 / 1
+Current % recommended: 0.0148
+
+File 793: 0 / 1
+
+File 794: 0 / 25
+
+File 795: 0 / 30
+
+File 796: 0 / 21
+
+File 797: 0 / 88
+
+File 798: 0 / 31
+We've seen scan blocks returning the call type 0 times, and we've seen scan blocks 722.0 times and call returned 1178.0 times.
+File 799: 1 / 31
+
+File 800: 0 / 13
+Current % recommended: 0.0148
+
+File 801: 0 / 13
+
+File 802: 0 / 1
+
+File 803: 0 / 31
+
+File 804: 0 / 92
+
+File 805: 0 / 10
+
+File 806: 0 / 59
+
+File 807: 0 / 1
+
+File 808: 0 / 1
+Current % recommended: 0.0147
+
+File 809: 0 / 23
+
+File 810: 0 / 1
+
+File 811: 0 / 22
+Function reverse! has appeared 168.0 times and to_a has appeared 3734.0 times, and they've appeared 0 times together.
+The identifier count has appeared 0 times as float and 399 times as int
+The identifier score has appeared 0 times as float and 5 times as int
+File 812: 3 / 88
+
+File 813: 0 / 30
+
+File 814: 0 / 32
+
+File 815: 0 / 21
+
+File 816: 0 / 4
+Current % recommended: 0.0147
+
+File 817: 0 / 6
+
+File 818: 0 / 3
+
+File 819: 0 / 36
+
+File 820: 0 / 1
+
+File 821: 0 / 26
+
+File 822: 0 / 25
+
+File 823: 0 / 35
+
+File 824: 0 / 1
+Current % recommended: 0.0147
+
+File 825: 0 / 1
+
+File 826: 0 / 27
+
+File 827: 0 / 1
+
+File 828: 0 / 1
+
+File 829: 0 / 22
+
+File 830: 0 / 12
+
+File 831: 0 / 32
+
+File 832: 0 / 11
+Current % recommended: 0.0146
+
+File 833: 0 / 25
+
+File 834: 0 / 67
+
+File 835: 0 / 14
+
+File 836: 0 / 8
+
+File 837: 0 / 12
+
+File 838: 0 / 4
+
+File 839: 0 / 16
+
+File 840: 0 / 1
+Current % recommended: 0.0146
+
+File 841: 0 / 29
+Function reverse has appeared 1030.0 times and chomp has appeared 1707.0 times, and they've appeared 0 times together.
+Function chomp has appeared 1707.0 times and reverse has appeared 1030.0 times, and they've appeared 0 times together.
+File 842: 2 / 23
+
+File 843: 0 / 23
+
+File 844: 0 / 28
+
+File 845: 0 / 20
+
+File 846: 0 / 50
+
+File 847: 0 / 1
+
+File 848: 0 / 1
+Current % recommended: 0.0146
+
+File 849: 0 / 1
+
+File 850: 0 / 23
+
+File 851: 0 / 22
+
+File 852: 0 / 13
+
+File 853: 0 / 1
+
+File 854: 0 / 15
+
+File 855: 0 / 1
+
+File 856: 0 / 45
+Current % recommended: 0.0146
+
+File 857: 0 / 24
+Function to_f has appeared 3400.0 times and now has appeared 447.0 times, and they've appeared 0 times together.
+File 858: 1 / 18
+
+File 859: 0 / 13
+
+File 860: 0 / 1
+
+File 861: 0 / 1
+
+File 862: 0 / 1
+
+File 863: 0 / 1
+
+File 864: 0 / 20
+Current % recommended: 0.0146
+
+File 865: 0 / 27
+We've seen each_slice blocks returning the lvasgn type 0 times, and we've seen each_slice blocks 106.0 times and lvasgn returned 2211.0 times.
+Function call shift:splat has appeared 2 times, and the most common alternative shift: has appeared 5105 times.
+File 866: 2 / 96
+Function stamp has appeared 77.0 times and now has appeared 447.0 times, and they've appeared 0 times together.
+File 867: 1 / 46
+
+File 868: 0 / 20
+
+File 869: 0 / 14
+
+File 870: 0 / 17
+Function to_h has appeared 167.0 times and to_a has appeared 3734.0 times, and they've appeared 0 times together.
+File 871: 1 / 333
+The identifier args has appeared 13 times as str and 303 times as array
+File 872: 1 / 44
+Current % recommended: 0.0145
+
+File 873: 0 / 3
+Function [] has appeared 219183.0 times and profile has appeared 87.0 times, and they've appeared 0 times together.
+File 874: 1 / 18
+
+File 875: 0 / 40
+Function parameters has appeared 431.0 times and new has appeared 7897.0 times, and they've appeared 0 times together.
+Function [] has appeared 219183.0 times and arity has appeared 613.0 times, and they've appeared 0 times together.
+Function key? has appeared 2016.0 times and arity has appeared 613.0 times, and they've appeared 0 times together.
+Function call []=:lvar,send,array has appeared 0 times, and the most common alternative []=:lvar,send has appeared 4748 times.
+File 876: 4 / 343
+
+File 877: 0 / 74
+
+File 878: 0 / 11
+
+File 879: 0 / 63
+
+File 880: 0 / 20
+Current % recommended: 0.0144
+
+File 881: 0 / 4
+
+File 882: 0 / 63
+
+File 883: 0 / 55
+Function day has appeared 767.0 times and Date.civil has appeared 384.0 times, and they've appeared 0 times together.
+File 884: 1 / 432
+
+File 885: 0 / 44
+Function + has appeared 55071.0 times and digest has appeared 218.0 times, and they've appeared 0 times together.
+File 886: 1 / 43
+
+File 887: 0 / 2
+Function each has appeared 40584.0 times and Enumerable.instance_methods has appeared 11.0 times, and they've appeared 0 times together.
+Function call map:splat has appeared 0 times, and the most common alternative map: has appeared 11562 times.
+Function find has appeared 3899.0 times and enum_for has appeared 255.0 times, and they've appeared 0 times together.
+File 888: 3 / 194
+Current % recommended: 0.0143
+Function all? has appeared 1031.0 times and identity has appeared 798.0 times, and they've appeared 0 times together.
+Function inject has appeared 2775.0 times and identity has appeared 798.0 times, and they've appeared 0 times together.
+File 889: 2 / 75
+
+File 890: 0 / 65
+
+File 891: 0 / 34
+
+File 892: 0 / 43
+
+File 893: 0 / 1
+We've seen traverse blocks returning the link type 0 times, and we've seen traverse blocks 79.0 times and link returned 50.0 times.
+File 894: 1 / 99
+
+File 895: 0 / 38
+
+File 896: 0 / 26
+Current % recommended: 0.0142
+Function reverse has appeared 1030.0 times and IO.readlines has appeared 72.0 times, and they've appeared 0 times together.
