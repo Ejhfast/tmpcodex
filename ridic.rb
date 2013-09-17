@@ -28,9 +28,9 @@ graph_types = [:begin, :all, :send, :str, :block, :hash, :pair, :sym, :const, :a
 timeline = []
 
 puts "loc,misses,hits,total,ratio"
-files = Dir[ARGV[0]+"/**/*.rb"]#.select do |f|
-  #f.split("/").all? { |x| !bad_things.include?(x) }
-#end
+files = Dir[ARGV[0]+"/**/*.rb"].select do |f|
+  f.split("/").all? { |x| !bad_things.include?(x) }
+end
 hits = 0
 misses = 0
 count = 0
@@ -39,12 +39,12 @@ files.shuffle.each do |f|
   file_str = ""
   file_str = IO.read(f) rescue ""
   ast = Parser::CurrentRuby.parse(file_str) rescue nil
-  begin
+  #begin
     c.tree_walk(ast) do |node|
       type = node.type
    
       #norm_store[type][norm_str] += 1
-      if type == :send
+      #if type == :send
         nn = ASTNormalizer.new
         norm = nn.rewrite_ast(node) rescue nil
         norm_str = ast_arr(norm) rescue nil
@@ -53,17 +53,17 @@ files.shuffle.each do |f|
         else
           hits += 1
         end
-      end
+      #end
       norm_store[:all][norm_str] += 1
       count += 1
-    end rescue nil
-  rescue
-  end
+    end #rescue nil
+  #rescue
+  #end
   lines = file_str.split("\n").count rescue 0
   loc += lines rescue nil
   #types = graph_types.map { |x| norm_store[x].select { |k,v| v > 1 }.size.to_s }.join(",") #/ norm_store.size
   #timeline.push(types)
-  puts "#{loc},#{misses.to_s},#{hits.to_s},#{count.to_s},#{hits.to_f / misses.to_f}"
+  puts "#{loc},#{misses.to_s},#{hits.to_s},#{hits+misses},#{hits.to_f / misses.to_f}"
 end
     
   

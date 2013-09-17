@@ -11,6 +11,8 @@ r.connect().repl
 	r.table_create("snippet_stats").run rescue nil
 
 	r.table("snippet_stats").insert(r.table("snippets")
+     .filter { |x| x[:info].gt(2) }
+     .filter { |x| x[:func_info].gt(2) }
      .grouped_map_reduce(
        lambda { |x| x[:norm_code] },
        lambda { |x| x.merge({:projects => [x[:project]]}) },
